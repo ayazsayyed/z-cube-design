@@ -779,7 +779,7 @@ $page_head = ucwords($page_head);
 <?php include('footer.php');?>
  
 <!--
-<script>
+<script>akil
     $(document).ready(function () {
         var owl = $("#owlroot");
         owl.owlCarousel({
