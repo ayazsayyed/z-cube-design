@@ -77,7 +77,7 @@ $page_head = ucwords($page_head);
 					<p> 401, Richa Industrial Estate, <br />Off New Link Rd, Andheri West, <br /> Mumbai, Maharashtra 400053</p>
 					<p> 
 						<strong> Email :</strong> <a href="mailto:info@zcubedesign.com" class="golden"> info@zcubedesign.com </a> <br />				
-					  	<strong> Contact :</strong> <a href="tel:02226391313" class="golden"> 022 - 26391313 </a> /<a href="tel:02226392323" class="golden"> 2323 </a> 
+					  	<strong> Contact :</strong> <a href="tel:02248251313" class="golden"> 022 - 48251313 </a> /<a href="tel:02246172323" class="golden"> 46172323 </a> 
 					</p>
 				</div>
 			</div> <!-- Row -->

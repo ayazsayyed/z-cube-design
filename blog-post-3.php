@@ -39,7 +39,7 @@ $page_head = ucwords($page_head);
                             <p>2023-feb-10</p>
                         </div>
 
-                        <h2>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h2>
+                        <h2>Illuminating Spaces: The Magic of Lighting in Interior Design</h2>
 
                         <div class="cust-author">
                             <div class="col-left">
@@ -52,39 +52,57 @@ $page_head = ucwords($page_head);
                         </div>
 
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/commercial/deutsche-bank/3d-images/3d-image-4.jpg" alt="">
+                            <img src="./assets/images/our-blog/blog-post/blog-post-1.jpg" alt="">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
                             <h5><strong>Introduction</strong></h5>
 
                             <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions. Join us as we share insights, trends, and success stories 
-                                that reflect our passion for crafting spaces that tell unique stories.
+                                Welcome to Z-Cube Design, where we believe that lighting is the unsung hero of interior 
+                                design. In this blog post, we shine a spotlight on the transformative power of lighting and how it can elevate 
+                                the mood, functionality, and aesthetics of any space. Join us on a journey through the art of illumination, 
+                                as we explore the nuances of lighting design and its profound impact on the ambiance of your home or office.
                             </p>
 
-                            <h5><strong>Crafting Environments, Creating Memories</strong></h5>
+                            <h5><strong>Understanding Lighting Basics</strong></h5>
 
-                            <p><strong>The Essence of Interior Design</strong></p>
                             <p>
-                                At Z-Cube Design, we believe that interior design is not just about aesthetics but 
-                                a reflection of your lifestyle and personality. Our team of seasoned designers brings a blend of creativity 
-                                and functionality to every project, ensuring each space is a harmonious extension of its inhabitants.
+                                <strong>The Three Layers of Lighting</strong>
+                                <br>
+                                Uncover the secrets of effective lighting design by exploring the three fundamental layers: ambient, task, 
+                                and accent lighting. Our experts break down each layer, offering insights into how they work together to 
+                                create a well-balanced and inviting atmosphere.
+                            </p>
+
+                            <h5><strong>Lighting for Different Spaces</strong></h5>
+                            <p>
+                                <strong>Kitchen Brilliance</strong>
+                                <br>
+                                Discover the key to achieving a well-lit and functional kitchen. From task lighting over workspaces to 
+                                ambient lighting for dining areas, our designers share tips on creating a bright and inviting culinary haven.
+                            </p>
+
+                            <p>
+                                <strong>Bedroom Serenity</strong>
+                                <br>
+                                Find out how to create a calming and cozy bedroom retreat with the right lighting choices. 
+                                Explore the use of warm, soft lighting to induce relaxation and the importance of task lighting for reading 
+                                or dressing areas.
                             </p>
 
                             <h5><strong>Conclusion</strong></h5>
                             <p>
-                                At Z-Cube Design, our commitment goes beyond creating visually stunning spaces; we aim to elevate your lifestyle 
-                                and enhance your well-being through thoughtful and innovative design. Whether you are looking to revamp your 
-                                living room, office, or commercial space, we are here to turn your dreams into reality.
+                                At Z-Cube Design, we believe that lighting is an art form that can breathe life into 
+                                any space. Whether you're looking to create a cozy nook or a vibrant work environment, our team is here to 
+                                guide you through the intricacies of lighting design.
+
                                 <br> <br>
-                                Thank you for joining us on this journey through the world of interior design. 
-                                Stay inspired, and let your spaces tell the story of who you are.
                                 For inquiries or to start your design journey with us, <a href="tel:02226391313">022 – 26391313</a>.
+
                                 <br> <br>
-                                Z-Cube Design - Where Every Space Tells a Story.
+
+                                Z-Cube Design -  Illuminating Your World, One Space at a Time.
                             </p>
                         </div>
 

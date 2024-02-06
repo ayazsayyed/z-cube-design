@@ -1116,6 +1116,18 @@ ul.contact-us li a:hover{
     padding: 60px 0;
 }
 
+.our-blog.home .blog-col-wrap{
+    grid-template-columns: repeat(2,minmax(0,1fr));
+}
+
+.our-blog.home .cust-blog-img {
+    height: 350px;
+}
+
+.our-blog .entry-title h2{
+    color: #333;
+}
+
 .our-blog  .blog-col-wrap {
     display: grid;
     grid-template-columns: repeat(3,minmax(0,1fr));
@@ -1135,12 +1147,18 @@ ul.contact-us li a:hover{
     height: 100%;
 }
 
+.our-blog .cust-blog-img{
+    height: 260px;
+}
+
 .our-blog .cust-blog-img figure{
     margin: 0 ;
+    height: 100%;
 }
 
 .our-blog .cust-blog-img figure img{
     width: 100%;
+    height: 100%;
     transition: all 0.3s ease-in-out;
 }
 
@@ -1180,8 +1198,8 @@ ul.contact-us li a:hover{
 }
 
 .our-blog h4{
-    font-size: 28px;
-    line-height: 1;
+    font-size: 22px;
+    line-height: 1.4;
     font-weight: bold;
     color: #333333;
     text-transform: capitalize;
@@ -1195,6 +1213,10 @@ ul.contact-us li a:hover{
     line-height: 1.4;
     font-weight: normal;
     margin-bottom: 15px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
 }
 
 .our-blog p:nth-last-child(1){
@@ -1302,6 +1324,10 @@ ul.contact-us li a:hover{
 
 .blog-post-page  p:nth-last-child(1){
     margin-bottom: 0;
+}
+
+.blog-post-page p strong{
+    color: #000000;
 }
 
 .blog-post-page .blog-post-per{
@@ -1419,7 +1445,6 @@ ul.contact-us li a:hover{
     color: #fff;
     border-radius: 10px;
 }
-
 
 
 /*------------------------- footer --------------------------*/
@@ -1828,7 +1853,7 @@ ul.contact-us li a:hover{
     }
 
     .our-blog h4{
-        font-size: 22px;
+        font-size: 18px;
     }
 
 }
@@ -2688,6 +2713,17 @@ ul.contact-us li a:hover{
         font-size: 14px;
     }
 
+    /*--------- blog post page --------*/
+
+    .blog-post-page .blog-post-wrap .cust-blog-content h2{
+        font-size: 26px;
+    }
+
+    .blog-post-page .blog-post-per{
+        max-width: 100%;
+    }
+
+
 }
 
 @media (max-width: 480px) {
@@ -2818,7 +2854,11 @@ ul.contact-us li a:hover{
         padding: 20px 10px;
     }
 
+    /* blog page css  */
 
+    .our-blog .blog-col-wrap{
+        row-gap: 35px;
+    }
 
     /*-------------------------*/
 

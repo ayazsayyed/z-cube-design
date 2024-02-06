@@ -39,7 +39,7 @@ $page_head = ucwords($page_head);
                             <p>2023-feb-10</p>
                         </div>
 
-                        <h2>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h2>
+                        <h2>The Art of Fusion: Blending Styles for Timeless Elegance</h2>
 
                         <div class="cust-author">
                             <div class="col-left">
@@ -52,39 +52,44 @@ $page_head = ucwords($page_head);
                         </div>
 
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/commercial/deutsche-bank/3d-images/3d-image-4.jpg" alt="">
+                            <img src="./assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" alt="">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
                             <h5><strong>Introduction</strong></h5>
 
                             <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions. Join us as we share insights, trends, and success stories 
-                                that reflect our passion for crafting spaces that tell unique stories.
+                                At  Z-Cube Design, we believe in the power of fusion, where diverse styles come together 
+                                to create spaces that transcend trends and stand the test of time. In this blog post, we explore the art of 
+                                blending styles to achieve a harmonious and timeless elegance. Join us on this design journey as we unravel 
+                                the beauty of eclectic interiors that seamlessly merge the old and the new.
                             </p>
 
-                            <h5><strong>Crafting Environments, Creating Memories</strong></h5>
+                            <h5><strong>Embracing Eclecticism</strong></h5>
 
-                            <p><strong>The Essence of Interior Design</strong></p>
                             <p>
-                                At Z-Cube Design, we believe that interior design is not just about aesthetics but 
-                                a reflection of your lifestyle and personality. Our team of seasoned designers brings a blend of creativity 
-                                and functionality to every project, ensuring each space is a harmonious extension of its inhabitants.
+                                <strong>The Beauty of Mix and Match</strong>
+                                <br>
+                                Uncover the secrets of eclectic interior design, where seemingly contrasting elements coalesce into a 
+                                cohesive and visually stunning whole. Our designers share tips on how to master the art of mix and match, 
+                                ensuring that every piece tells a story while contributing to the overall narrative of the space.
                             </p>
 
                             <h5><strong>Conclusion</strong></h5>
-                            <p>
-                                At Z-Cube Design, our commitment goes beyond creating visually stunning spaces; we aim to elevate your lifestyle 
-                                and enhance your well-being through thoughtful and innovative design. Whether you are looking to revamp your 
-                                living room, office, or commercial space, we are here to turn your dreams into reality.
+                            <p>At Z-Cube Design, we celebrate the diversity of design styles and their ability to 
+                                coalesce into something truly extraordinary. The art of fusion is about creating spaces that are not bound 
+                                by limitations but enriched by the amalgamation of influences. If you're ready to embark on a design 
+                                journey that transcends boundaries, we're here to bring your vision to life.
+
                                 <br> <br>
+
                                 Thank you for joining us on this journey through the world of interior design. 
                                 Stay inspired, and let your spaces tell the story of who you are.
                                 For inquiries or to start your design journey with us, <a href="tel:02226391313">022 – 26391313</a>.
+
                                 <br> <br>
-                                Z-Cube Design - Where Every Space Tells a Story.
+
+                                Z-Cube Design - Where Style Knows No Boundaries.
                             </p>
                         </div>
 

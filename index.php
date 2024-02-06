@@ -756,6 +756,58 @@ $page_head = ucwords($page_head);
 			</div>	
 		</div>	
 	</section>
+
+	<div class="our-blog home">
+        <div class="container">
+
+			<div class="entry-title">
+				<h2>From Concept to Creation: Our Interior Design Blog</h2>
+			</div>
+
+            <div class="blog-col-wrap">
+
+                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
+                    <a href="#">
+                        <div class="cust-blog-img">
+                            <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
+                        </div>
+                        <div class="cust-blog-content">
+                            <div class="cust-date-categories">
+                                <span>Sales and Marketing</span>
+                                <p>02-10-2023</p>
+                            </div>
+                            <h4>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h4>
+                            <p>
+                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
+                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
+                                the transformative power of our creative solutions.
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
+                    <a href="#">
+                        <div class="cust-blog-img">
+                            <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
+                        </div>
+                        <div class="cust-blog-content">
+                            <div class="cust-date-categories">
+                                <span>Sales and Marketing</span>
+                                <p>02-10-2023</p>
+                            </div>
+                            <h4>The Art of Fusion: Blending Styles for Timeless Elegance</h4>
+                            <p>
+                                At Z-Cube Design, we believe in the power of fusion, where diverse styles come 
+                                together to create spaces that transcend trends and stand the test of time. 
+                            </p>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
 	
 	<section id="about">
 		<div class="dots"></div>		
@@ -779,7 +831,7 @@ $page_head = ucwords($page_head);
 <?php include('footer.php');?>
  
 <!--
-<script>akil
+<script>
     $(document).ready(function () {
         var owl = $("#owlroot");
         owl.owlCarousel({

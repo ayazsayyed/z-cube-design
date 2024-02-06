@@ -95,7 +95,7 @@ $page_head = ucwords($page_head);
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-39.png" alt="royal bank of scotland"></figure>
+							<img src="./assets/images/client-logo/logo-6.png" alt="asian paint "></figure>
 					</div>
 				</div>
 

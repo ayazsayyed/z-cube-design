@@ -98,7 +98,7 @@ $page_head = ucwords($page_head);
 						<h4>Sajid Hebsur</h4>
 						<p>Sajid Hebsur has 12+ years of experience, He handles project management & execution across all verticals.</p>
 
-						<a href="mailto:info@zcubedesign.com"> info@zcubedesign.com </a>
+						<a href="mailto:sajid@zcubedesign.com"> sajid@zcubedesign.com </a>
 					</div>
 				</div>
 
@@ -147,7 +147,7 @@ $page_head = ucwords($page_head);
 					<div class="p-details">
 						<h6>Project Head</h6>
 						<h4>Rehan Markar</h4>
-						<p>adeptly balances creativity and efficiency, consistently achieving stellar outcomes for our interior design projects.</p>
+						<p>Adeptly balances creativity and efficiency, consistently achieving stellar outcomes for our interior design projects.</p>
 
 						<a href="mailto:project@zcubedesign.com">project@zcubedesign.com</a>
 					</div>
@@ -292,7 +292,7 @@ $page_head = ucwords($page_head);
 				<h4>Sajid Hebsur</h4>
 				<h6>ASSOCIATE DIRECTOR</h6>
 				<ul class="social d-flex"> 
-					<li><a href="mailto:info@zcubedesign.com"><i class="fa fa-envelope" aria-hidden="true"></i>info@zcubedesign.com</a></li>
+					<li><a href="mailto:sajid@zcubedesign.com"><i class="fa fa-envelope" aria-hidden="true"></i>sajid@zcubedesign.com</a></li>
 				</ul>
 				<p> Sajid Hebsur has 12+ years of experience, He handles project management & execution across all verticals.</p>
 				<p>

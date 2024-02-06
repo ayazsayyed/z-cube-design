@@ -33,7 +33,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-9 col-md-8">
 						<div class="contact-us">
-							<a href="tel:02226391313"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; Call Us: 022 – 26391313</a> 
+							<a href="tel:02248251313"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; Call Us: 022 - 48251313</a> 
 							<a href="mailto:info@zcubedesign.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; Email : info@zcubedesign.com</a>
 						</div>
 					</div>
