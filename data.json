@@ -407,7 +407,7 @@
 
 	{
 		"id": "11",
-		"title": "Eversana",
+		"title": "Eversana India Pvt Ltd",
 		"sub_title": " ", 
 		"seo_url": "eversana",
 		"company": "india",
@@ -642,7 +642,7 @@
 
 	{
 		"id": "18",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Delhi",
 		"sub_title": "Beautiful Homes", 
 		"seo_url": "Asianpaints-Delhi",
 		"company": "india",
@@ -677,7 +677,7 @@
 
 	{
 		"id": "19",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Hyderabad",
 		"sub_title": "Beautiful Homes", 
 		"seo_url": "Asianpaints-Hyderabad",
 		"company": "india",
@@ -716,7 +716,7 @@
 
 	{
 		"id": "20",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Raipur",
 		"sub_title": "Beautiful Homes", 
 		"seo_url": "Asianpaints-Raipur",
 		"company": "india",
@@ -746,7 +746,7 @@
 
 	{
 		"id": "21",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Tumkur",
 		"sub_title": "Beautiful Homes", 
 		"seo_url": "Asianpaints-Tumkur",
 		"company": "india",
@@ -791,7 +791,7 @@
 
 	{
 		"id": "22",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Mohali",
 		"sub_title": "Beautiful Homes", 
 		"seo_url": "Asianpaints-Mohali",
 		"company": "india",
@@ -814,9 +814,7 @@
 		"thumbnail": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg", 
 		"gallery": [
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-2.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-4.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-5.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-6.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-7.jpg" },
@@ -891,7 +889,7 @@
 	{
 		"id": "25",
 		"title": "Surat",
-		"sub_title": "Asianpaints-Surat", 
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asian-paints-colour-academy",
 		"company": "india",
 		"areas": "2700",
@@ -931,12 +929,12 @@
 	{
 		"id": "26",
 		"title": "Ahmedabad",
-		"sub_title": "Asian paints colour academy", 
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asianpaints-Ahmedabad",
 		"company": "india",
 		"areas": "2700",
 		"duration": "2 Month",
-		"location": "sheth Mangaldas Rd - Ahmedabad", 
+		"location": "Sheth Mangaldas Rd - Ahmedabad", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -968,7 +966,7 @@
 	{
 		"id": "27",
 		"title": "Coimbatore",
-		"sub_title": "Asian paints colour academy", 
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asianpaints-coimbatore",
 		"company": "india",
 		"areas": "3000",
@@ -1001,7 +999,7 @@
 	{
 		"id": "28",
 		"title": "Vijayawada",
-		"sub_title": "Asian paints colour academy", 
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asianpaints-Vijayawada",
 		"company": "india",
 		"areas": "2800",
@@ -1024,7 +1022,6 @@
 		"gallery": [
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-1.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-3.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-4.jpeg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-5.jpeg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-6.jpeg" },
@@ -1036,7 +1033,7 @@
 	{
 		"id": "29",
 		"title": "Trivandrum",
-		"sub_title": "Asian paints colour academy", 
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asianpaints-Kerala",
 		"company": "india",
 		"areas": "2900",
@@ -1067,7 +1064,7 @@
 
 	{
 		"id": "30",
-		"title": "Asianpaints",
+		"title": "Asianpaints - Chennai",
 		"sub_title": "Beautiful Home", 
 		"seo_url": "Beautiful-Home-Chennai",
 		"company": "india",
@@ -1105,8 +1102,8 @@
 
 	{
 		"id": "31",
-		"title": "asian paints colour academy",
-		"sub_title": "", 
+		"title": "Asianpaints - Tirupur",
+		"sub_title": "Beautiful Home", 
 		"seo_url": "asianpaints-Tirupur",
 		"company": "india",
 		"areas": "8000",

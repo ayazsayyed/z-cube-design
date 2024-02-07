@@ -767,7 +767,7 @@ $page_head = ucwords($page_head);
             <div class="blog-col-wrap">
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="#">
+                    <a href="blog-post-1.php" target="_blank">
                         <div class="cust-blog-img">
                             <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
                         </div>
@@ -787,7 +787,7 @@ $page_head = ucwords($page_head);
                 </div>
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="#">
+                    <a href="blog-post-2.php" target="_blank">
                         <div class="cust-blog-img">
                             <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
                         </div>

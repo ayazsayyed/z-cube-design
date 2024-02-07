@@ -1,4 +1,3 @@
-					
 	<!--<li class="nav-item"> <a <?php if($page == "/"){?> class="active" <?php }?> href="index.php"> Home </a> </li> -->
 	<li class="nav-item"> <a <?php if($page == "about-us"){?> class="active" <?php }?> href="about-us.php"> About Us </a> </li> 
 	<!-- <li class="nav-item"> <a <?php if($page == "#"){?> class="active" <?php }?> href="#"> Fitouts </a> </li>  -->

@@ -43,7 +43,7 @@
 						<div class="site-footer__columns__column__inner">
 							<p class="mb-0">USEFULL LINKS</p>
 							<ul id="menu-footer-menu" class="clearfix">
-								<?php include('nav.php'); ?> 
+								<?php include('footer-nav.php'); ?> 
 							</ul>
 						</div>
 					</div>
