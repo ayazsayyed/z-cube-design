@@ -53,7 +53,7 @@ $page_head = ucwords($page_head);
             <div class="blog-col-wrap">
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="#">
+                    <a href="blog-post-1.php">
                         <div class="cust-blog-img">
                             <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
                         </div>
@@ -73,7 +73,7 @@ $page_head = ucwords($page_head);
                 </div>
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="#">
+                    <a href="blog-post-2.php">
                         <div class="cust-blog-img">
                             <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
                         </div>
@@ -92,7 +92,7 @@ $page_head = ucwords($page_head);
                 </div>
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="#">
+                    <a href="blog-post-3.php">
                         <div class="cust-blog-img">
                             <figure><img src="./assets/images/our-blog/blog-img.webp" alt="blog post image"></figure>
                         </div>
