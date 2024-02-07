@@ -64,7 +64,6 @@ $page_head = ucwords($page_head);
 					a unique commercial environment. We look forward to collaborating with you and turning your interior design dreams into a reality. 
 					Discover the Z Cube Design difference today!
 				</p>
-				<a href="#" class="btn">  </a>
 			</div>
 
 			<div class="card-details">
