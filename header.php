@@ -2,8 +2,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">   
 
-	<link rel="icon" type="image/png" href="img/favicon.ico"/>
-    <link rel="apple-touch-icon" href="img/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+	<link rel="manifest" href="./assets/favicon/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
 	
 	<!-- Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
