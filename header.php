@@ -2,8 +2,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">   
 
-	<link rel="icon" type="image/png" href="img/favicon.ico"/>
-    <link rel="apple-touch-icon" href="img/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+	<link rel="manifest" href="./assets/favicon/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
 	
 	<!-- Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,7 +37,7 @@
 				<div class="row align-items-center">
 					<div class="col-lg-9 col-md-8">
 						<div class="contact-us">
-							<a href="tel:02226391313"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; Call Us: 022 – 26391313</a> 
+							<a href="tel:02248251313"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; Call Us: 022 - 48251313</a> 
 							<a href="mailto:info@zcubedesign.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> &nbsp; Email : info@zcubedesign.com</a>
 						</div>
 					</div>

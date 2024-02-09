@@ -3,11 +3,11 @@
 		"id": "1",
 		"title": "Deutsche Bank",
 		"sub_title": "", 
-		"seo_url": "Design & Built, Turnkey",
+		"seo_url": "Design-Built-Turnkey",
 		"company": "india",
 		"areas": "8000",
 		"duration": "3 Month", 
-		"location": "Goregaon -Mumbai",	
+		"location": "Goregaon - Mumbai",	
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -19,8 +19,7 @@
 		],
 		"type": "commercial",
 		"works": [
-			{ "worktyp": "Design" },
-			{ "worktyp": " Built" }
+			{ "worktyp": "Fitout" }
 		],
 		"thumbnail": "assets/images/project-categories/commercial/deutsche-bank/img-3.jpg", 
 		"gallery": [
@@ -39,6 +38,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-13.jpg" }
 		]
 	},
+
 	{
 		"id": "2",
 		"title": "DR. AEH Kolkata",
@@ -77,6 +77,7 @@
 			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" }
 		]
 	},
+
 	{
 		"id": "3",
 		"title": "Andheri",
@@ -112,6 +113,7 @@
 
 		]
 	},
+
 	{
 		"id": "4",
 		"title": "Sequel",
@@ -120,7 +122,7 @@
 		"company": "india",
 		"areas": "6000",
 		"duration": "2 Month",
-		"location": "BKC & Bandra -Mumbai", 
+		"location": "BKC & Bandra - Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -143,11 +145,12 @@
 			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-5.jpg" }
 		]
 	},
+
 	{
 		"id": "5",
-		"title": "Asianpaint",
+		"title": "Asianpaints",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Gorakhpur",
 		"company": "india",
 		"areas": "6000",
 		"duration": "3 Month",
@@ -189,9 +192,10 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-20.jpg" }
 		]
 	},
+
 	{
 		"id": "6",
-		"title": "DEH VASHI",
+		"title": "DR. AEH VASHI",
 		"sub_title": " ", 
 		"seo_url": "deh-vashi",
 		"company": "india",
@@ -221,11 +225,12 @@
 
 		]
 	},
+
 	{
 		"id": "7",
-		"title": "Asianpaint",
+		"title": "Asianpaints",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Nashik",
 		"company": "india",
 		"areas": "7500",
 		"duration": "2 Month",
@@ -253,6 +258,7 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-6.jpg" }
 		]
 	},
+
 	{
 		"id": "7",
 		"title": "WEWORK",
@@ -261,7 +267,7 @@
 		"company": "india",
 		"areas": "20000",
 		"duration": "2 Month",
-		"location": "Goregaon -Mumbai", 
+		"location": "Goregaon - Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -290,6 +296,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-11.jpeg" }
 		]
 	},
+
 	{
 		"id": "8",
 		"title": "Indus Club",
@@ -332,15 +339,16 @@
 			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-16.jpeg" }
 		]
 	},
+
 	{
 		"id": "9",
 		"title": "Nepean Sea Road",
 		"sub_title": " ", 
-		"seo_url": "nepeansearoad",
+		"seo_url": "nepean-sea-road",
 		"company": "india",
 		"areas": "1200",
 		"duration": "12 Month",
-		"location": "mumbai - Mumbai", 
+		"location": "Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -366,6 +374,7 @@
 			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-8.jpeg" }
 		]
 	},
+
 	{
 		"id": "10",
 		"title": "247 Park",
@@ -395,9 +404,10 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-3.jpg" }
 		]
 	},
+
 	{
 		"id": "11",
-		"title": "Eversana",
+		"title": "Eversana India Pvt Ltd",
 		"sub_title": " ", 
 		"seo_url": "eversana",
 		"company": "india",
@@ -425,6 +435,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-3.jpg" }
 		]
 	},
+
 	{
 		"id": "12",
 		"title": "HH Global",
@@ -433,7 +444,7 @@
 		"company": "india",
 		"areas": "12000",
 		"duration": "3 Month",
-		"location": "Goregaon -Mumbai", 
+		"location": "Goregaon - Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -458,6 +469,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-6.jpg" }
 		]
 	},
+
 	{
 		"id": "13",
 		"title": "Money gram",
@@ -495,6 +507,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-10.jpg" }
 		]
 	},
+
 	{
 		"id": "14",
 		"title": "Nielson",
@@ -525,6 +538,7 @@
 			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-3.jpg" }
 		]
 	},
+
 	{
 		"id": "15",
 		"title": "Square yard",
@@ -558,15 +572,16 @@
 
 		]
 	},
+
 	{
 		"id": "16",
 		"title": "Lowerparel-1",
 		"sub_title": " ", 
-		"seo_url": "lowerparel-1",
+		"seo_url": "lowerparel-mumbai",
 		"company": "india",
 		"areas": "1200",
 		"duration": "6 Month",
-		"location": "mumbai - Mumbai", 
+		"location": "Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -590,6 +605,7 @@
 
 		]
 	},
+
 	{
 		"id": "17",
 		"title": "Lowerparel-2",
@@ -598,7 +614,7 @@
 		"company": "india",
 		"areas": "1200",
 		"duration": "6 Month",
-		"location": "mumbai - Mumbai", 
+		"location": "Mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -623,11 +639,12 @@
 			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-7.jpeg" }
 		]
 	},
+
 	{
 		"id": "18",
-		"title": "Asianpaint",
+		"title": "Asianpaints - Delhi",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Delhi",
 		"company": "india",
 		"areas": "6000",
 		"duration": "3 Month",
@@ -657,11 +674,12 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-8.jpg" }
 		]
 	},
+
 	{
 		"id": "19",
-		"title": "Asianpaint",
+		"title": "Asianpaints - Hyderabad",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Hyderabad",
 		"company": "india",
 		"areas": "6000",
 		"duration": "3 Month",
@@ -695,11 +713,12 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-12.jpeg" }
 		]
 	},
+
 	{
 		"id": "20",
-		"title": "Asianpaint",
+		"title": "Asianpaints - Raipur",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Raipur",
 		"company": "india",
 		"areas": "8000",
 		"duration": "2 Month",
@@ -724,11 +743,12 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-3.jpg" }
 		]
 	},
+
 	{
 		"id": "21",
-		"title": "Asianpaint",
+		"title": "Asianpaints - Tumkur",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Tumkur",
 		"company": "india",
 		"areas": "7000",
 		"duration": "2 Month",
@@ -768,15 +788,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-19.jpg" }
 		]
 	},
+
 	{
 		"id": "22",
-		"title": "Asianpaint",
+		"title": "Asianpaints - Mohali",
 		"sub_title": "Beautiful Homes", 
-		"seo_url": "asianpaint",
+		"seo_url": "Asianpaints-Mohali",
 		"company": "india",
 		"areas": "10000",
 		"duration": "3 Month",
-		"location": "Mohali Asian Paints Beautiful Homes", 
+		"location": "Mohali - Punjab", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -793,9 +814,7 @@
 		"thumbnail": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg", 
 		"gallery": [
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-2.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-4.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-5.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-6.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-7.jpg" },
@@ -803,15 +822,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-9.jpg" }
 		]
 	},
+
 	{
 		"id": "23",
-		"title": "Dr. Agarwal's Eye Hospital",
+		"title": "DR. AEH Tumkur",
 		"sub_title": "", 
 		"seo_url": "deh-tumkur",
 		"company": "india",
 		"areas": "8000",
 		"duration": "2.5 Month",
-		"location": "Tumkur Karnataka", 
+		"location": "Tumkur - Karnataka", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -832,15 +852,16 @@
 			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-3.jpeg" }
 		]
 	},
+
 	{
 		"id": "24",
 		"title": "Beer Cafe",
 		"sub_title": "", 
 		"seo_url": "beer-cafe",
 		"company": "india",
-		"areas": "-",
-		"duration": "- Month",
-		"location": "-", 
+		"areas": "1500",
+		"duration": " 3 - Month",
+		"location": "Juhu - mumbai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -864,15 +885,16 @@
 			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-6.jpg" }
 		]
 	},
+
 	{
 		"id": "25",
-		"title": "asian paints colour academy",
-		"sub_title": "Surat", 
+		"title": "Surat",
+		"sub_title": "Asian Paints Colour Academy", 
 		"seo_url": "asian-paints-colour-academy",
 		"company": "india",
 		"areas": "2700",
 		"duration": "2 Month",
-		"location": "Udhana Darwaza, Surat", 
+		"location": "Udhana Darwaza - Surat", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -903,15 +925,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-13.jpeg" }
 		]
 	},
+
 	{
 		"id": "26",
-		"title": "asian paints colour academy",
-		"sub_title": "Ahmedabad", 
-		"seo_url": "asian-paints-colour-academy",
+		"title": "Ahmedabad",
+		"sub_title": "Asian Paints Colour Academy", 
+		"seo_url": "asianpaints-Ahmedabad",
 		"company": "india",
 		"areas": "2700",
 		"duration": "2 Month",
-		"location": "sheth Mangaldas Rd, Ahmedabad", 
+		"location": "Sheth Mangaldas Rd - Ahmedabad", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -939,15 +962,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-10.jpeg" }
 		]
 	},
+
 	{
 		"id": "27",
-		"title": "asian paints colour academy",
-		"sub_title": "Coimbatore", 
-		"seo_url": "asian-paints-colour-academy",
+		"title": "Coimbatore",
+		"sub_title": "Asian Paints Colour Academy", 
+		"seo_url": "asianpaints-coimbatore",
 		"company": "india",
 		"areas": "3000",
 		"duration": "2.5 Month",
-		"location": "Ram Nagar, coimbatore", 
+		"location": "Ram Nagar - coimbatore", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -971,15 +995,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-6.jpeg" }
 		]
 	},
+
 	{
 		"id": "28",
-		"title": "asian paints colour academy",
-		"sub_title": "Vijayawada", 
-		"seo_url": "asian-paints-colour-academy",
+		"title": "Vijayawada",
+		"sub_title": "Asian Paints Colour Academy", 
+		"seo_url": "asianpaints-Vijayawada",
 		"company": "india",
 		"areas": "2800",
 		"duration": "2.5 Month",
-		"location": "Vijayawada", 
+		"location": "Vijayawada - Andhra Pradesh", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -997,7 +1022,6 @@
 		"gallery": [
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-1.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-3.jpg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-4.jpeg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-5.jpeg" },
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-6.jpeg" },
@@ -1005,15 +1029,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-8.jpeg" }
 		]
 	},
+
 	{
 		"id": "29",
-		"title": "asian paints colour academy",
-		"sub_title": "Trivandrum", 
-		"seo_url": "asian-paints-colour-academy",
+		"title": "Trivandrum",
+		"sub_title": "Asian Paints Colour Academy", 
+		"seo_url": "asianpaints-Kerala",
 		"company": "india",
 		"areas": "2900",
 		"duration": "2.5 Month",
-		"location": "Artech Meenakshi Plaza, Tirupur", 
+		"location": "Artech Meenakshi Plaza - Kerala", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -1036,15 +1061,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-5.jpg" }
 		]
 	},
+
 	{
 		"id": "30",
-		"title": "Beautiful Home Chennai",
-		"sub_title": "Ambattur Chennai", 
-		"seo_url": "Beautiful Home Chennai",
+		"title": "Asianpaints - Chennai",
+		"sub_title": "Beautiful Home", 
+		"seo_url": "Beautiful-Home-Chennai",
 		"company": "india",
 		"areas": "8200",
 		"duration": "3 Month",
-		"location": "Ambattur, Chennai", 
+		"location": "Ambattur - Chennai", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -1073,15 +1099,16 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-11.jpeg" }
 		]
 	},
+
 	{
 		"id": "31",
-		"title": "asian paints colour academy",
-		"sub_title": "", 
-		"seo_url": "asian-paints-colour-academy",
+		"title": "Asianpaints - Tirupur",
+		"sub_title": "Beautiful Home", 
+		"seo_url": "asianpaints-Tirupur",
 		"company": "india",
 		"areas": "8000",
 		"duration": "3 Month",
-		"location": "Pandia Nagar, Tirupur", 
+		"location": "Pandia Nagar - Tirupur", 
 		"year": "",	
 		"categories": [
 			{ "category": "all" },
@@ -1122,6 +1149,7 @@
 			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-23.jpeg" }
 		]
 	}
+	
 ]
 
 

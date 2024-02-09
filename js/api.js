@@ -63,12 +63,13 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
         $(".next").click(function () {
             owl.trigger('owl.next');
         })
+        
         $(".prev").click(function () {
             owl.trigger('owl.prev');
         })
 
         $('#our-client-slide').owlCarousel({
-            autoPlay: 3100,
+            autoPlay: 2000,
             items: 5,
             pagination: false,
             stopOnHover: true,
