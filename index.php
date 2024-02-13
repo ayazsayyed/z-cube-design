@@ -52,7 +52,7 @@ $page_head = ucwords($page_head);
 			<div class="row align-items-center">
 				<div class="col-12 col-lg-6" data-scrollreveal="enter left over 1.5s">
 					<div class="content about_text">
-						<h5 class="sub_title orange"> WHO WE ARE </h1>
+						<h5 class="sub_title orange"> WHO WE ARE </h5>
 						<h1> We Are Expert In Space Utilisation.  </h1>
 						<p class="d-none"> Z cube Design Pvt. Ltd. is a Turnkey Interior Design & Build firm based in Mumbai. We work with a single minded goal – to create aesthetics spaces that are a joy to live & work in ergonomically. And we do this, by establishing a precise collaboration between design team, execution team and the client. Z cube Design are team of Artisans. Designers. Architects. Interior designers. <br />
 							Project management consultants, Planners. Strategists. Experience designers. We are Innovators. Ideators. Creators. Happy to solve on-site problems. And with every project, every client, we seek results. Results that support the Hallmark of our Firm that Is On-Time Completion of Projects.</p>
