@@ -728,7 +728,7 @@ $page_head = ucwords($page_head);
 		<div class="container">		
 			<div class="row justify-content-md-center">
 				<div class="col-12 col-lg-3" data-scrollreveal="enter left over 1.5s">
-					<h5 class="sub_title orange"> HOW WE WORK </h1>
+					<h5 class="sub_title orange"> HOW WE WORK </h5>
 					<h1> 3 Easy steps to get interior design </h1>
 					<p> "Discover our process: Consult, Design, Transform. Your dream interior awaits!"</p> 
 				</div> 
@@ -814,7 +814,7 @@ $page_head = ucwords($page_head);
 		<div class="container">		
 			<div class="row justify-content-md-center">
 				<div class="col-12 col-lg-8 text-center" data-scrollreveal="enter left over 1.5s">
-					<h5 class="sub_title orange"> YOU DREAM IT, WE DESIGN IT</h1>
+					<h5 class="sub_title orange"> YOU DREAM IT, WE DESIGN IT</h5>
 					<h1> We can build you the Furniture of your dreams  </h1>
 					<br />
 					<p>

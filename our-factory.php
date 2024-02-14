@@ -323,7 +323,7 @@ $page_head = ucwords($page_head);
                         <div class="slider product-slider">
                             <div class="product-card">
                                 <div class="pro-img">
-                                    <img src="./assets/images/products/tv-unit/tv-unit-img-1.png" alt="">
+                                    <img src="./assets/images/products/tv-unit/tv-unit-img-1.png" alt="contemporary tv unit ">
                                 </div>
                                 <div class="product-content">
                                     <span>Tv Unit</span>
@@ -333,7 +333,7 @@ $page_head = ucwords($page_head);
 
                             <div class="product-card">
                                 <div class="pro-img">
-                                    <img src="./assets/images/products/tv-unit/tv-unit-img-2.png" alt="">
+                                    <img src="./assets/images/products/tv-unit/tv-unit-img-2.png" alt="PU Finish tv unit 1">
                                 </div>
                                 <div class="product-content">
                                     <span>Tv Unit</span>
@@ -589,25 +589,6 @@ $page_head = ucwords($page_head);
                 </div>
             </div>
         </div>
-
-        <!-- <div class="row ">
-            <div class="col-12 col-lg-6 order-2">
-                <div class="content">
-                    <h3>HOMAG <span>CENTATEQ P-100</span></h3>
-                    <p>
-                        The CENTATEQ P-100 is a highly efficient CNC Processing center.  Its automatic tool changer and integrated tool management system optimizing CNC 
-                        operations and maximizing output. With a strong focus on precision and durability, this machine is built to deliver top-notch results consistently. 
-                        With its compact design and efficient features, the CENTATEQ P-100 is the perfect choice for small to medium-sized cabinet furniture workshops. 
-                        It provides reliability, productivity, and operator-friendly functionality while minimizing space requirements.
-                    </p>
-                </div>
-            </div>
-            <div class="col-12 col-lg-6 order-1">
-                <div class="machine-image">
-                    <img src="./assets/images/machine-img/homag.png" alt="">
-                </div>
-            </div>
-        </div> -->
     </div>
 </section>
 
@@ -662,43 +643,10 @@ $page_head = ucwords($page_head);
     </div>
 </section>
 
-<!-- <section class="machinery-list">
-    <div class="container">
-        <div class="list-wrap">
-            <ul>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-1.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-2.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-3.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-4.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-5.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-6.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-7.png" alt="">
-                </li>
-                <li class="machine-l">
-                    <img src="./assets/images/machine-img/machine-img-8.png" alt="">
-                </li>
-            </ul>
-        </div>
-    </div>
-</section> -->
-
 <section class="machinery cust-sec">
     <div class="container">
         <div class="row ">
-            <div class="col-12 col-lg-6 order-2">
+            <div class="col-12 col-lg-6 order-lg-2">
                 <div class="content">
                     <h3>HOMAG <span>CENTATEQ P-100</span></h3>
                     <p>
@@ -710,7 +658,7 @@ $page_head = ucwords($page_head);
                     <a href="https://indiashop.homag.com/products/centateq-p-100"  target="_blank" class="learn-more">learn more <span><i class="fa fa-angle-right" aria-hidden="true"></i></span></a>
                 </div>
             </div>
-            <div class="col-12 col-lg-6 order-1">
+            <div class="col-12 col-lg-6 order-lg-1">
                 <div class="machine-image">
                     <img src="./assets/images/machine-img/homag.png" alt="homag machine">
                 </div>

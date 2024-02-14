@@ -54,8 +54,8 @@
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
 				<a class="navbar-brand logo" href="index.php">
-					<img alt="" src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
-					<img alt="" src="./assets/images/sticky-logo.png" class="logo_dark_1 img-fluid" alt="z cube design logo" />
+					<img src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
+					<img src="./assets/images/sticky-logo.png" class="logo_dark_1 img-fluid" alt="z cube design logo" />
 				</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 					<span></span>
@@ -75,8 +75,8 @@
 	<header class="full_header content-white mobile_menu">
 		<div class="float-left">
 			<a href="index.php" class="logo">
-				<img alt="" src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
-				<img alt="" src="./assets/images/sticky-logo.png" class="img-fluid" alt="z cube design logo" />
+				<img src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
+				<img src="./assets/images/sticky-logo.png" class="img-fluid" alt="z cube design logo" />
 			</a>
 		</div>
 		<div class="float-right">

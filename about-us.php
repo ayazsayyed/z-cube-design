@@ -160,25 +160,7 @@ $page_head = ucwords($page_head);
 
 							As we move forward, our mission remains the same: to craft spaces that speak for themselves, spaces that leave a lasting impression. Thank you for entrusting us with your design aspirations. Together, we'll continue to transform spaces into captivating, functional, and personalized environments.
 						</p>
-						<!-- <p><strong>Thank you for being part of the Z Cube Design family.</strong></p>
-						<p><strong>Warm regards,</strong></p> -->
 					</div>
-
-					<!-- 
-					<h4> Director's Speech </h4>
-					<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting. </p>
-					<p class="mb-0"> We build our dreams on four strong foundations - </p>
-					<ol class="listing">
-						<li> Health  & Safety - <span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </span> </li>
-						
-						<li> Environmental Safety - <span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </span> </li>
-						
-						<li> Quality - <span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </span> </li>
-						
-						<li> Integrity - <span> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </span> </li>
-					</ol>
-					<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. </p>               
-					-->
 				</div>				
 				<div class="col-lg-4 quick_inquiry">
 					<div class="card">

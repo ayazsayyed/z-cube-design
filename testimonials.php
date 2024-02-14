@@ -69,7 +69,6 @@ $page_head = ucwords($page_head);
 								</div>
 								<div class="testi-title">
 									<h4>H* Architects</h4>
-									<!-- <p>ASSOCIATE DIRECTOR ( MEP )</p> -->
 								</div>
 							</div>
 							<div class="testi-decs-two">
@@ -97,11 +96,10 @@ $page_head = ucwords($page_head);
 						<div class="single-testimonial-box-two">
 							<div class="testi-content-two">
 								<div class="testi-thumb-two">
-								<img src="./assets/images/team-photo/hashim-Hebsur.jpg" alt="">
+								<img src="./assets/images/team-photo/hashim-Hebsur.jpg" alt="hashim hebsur profile">
 								</div>
 								<div class="testi-title">
 									<h4>Fortune Developers</h4>
-									<!-- <p>ASSOCIATE DIRECTOR ( MEP )</p> -->
 								</div>
 							</div>
 							<div class="testi-decs-two">
@@ -127,11 +125,10 @@ $page_head = ucwords($page_head);
 						<div class="single-testimonial-box-two">
 							<div class="testi-content-two">
 								<div class="testi-thumb-two">
-								<img src="./assets/images/team-photo/saharukh.jpg" alt="">
+								<img src="./assets/images/team-photo/saharukh.jpg" alt="shahruk profile">
 								</div>
 								<div class="testi-title">
 									<h4>Al-Amal Diagnostics</h4>
-									<!-- <p>ASSOCIATE DIRECTOR ( MEP )</p> -->
 								</div>
 							</div>
 							<div class="testi-decs-two">

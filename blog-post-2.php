@@ -41,18 +41,8 @@ $page_head = ucwords($page_head);
 
                         <h2>The Art of Fusion: Blending Styles for Timeless Elegance</h2>
 
-                        <div class="cust-author">
-                            <div class="col-left">
-                                <img src="" alt="">
-                            </div>
-                            <div class="col-right">
-                                <span>Author Name</span>
-                                <p>Author</p>
-                            </div>
-                        </div>
-
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" alt="">
+                            <img src="./assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" alt="blog post image">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
@@ -96,7 +86,7 @@ $page_head = ucwords($page_head);
                         <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
                             <div class="per-wrap">
                                 <div class="cust-img">
-                                    <img src="" alt="">
+                                <img src="" alt="profile image">
                                 </div>
                                 <div class="cust-name-desig">
                                     <span>abc author name </span>

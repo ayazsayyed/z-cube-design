@@ -2147,7 +2147,7 @@ ul.contact-us li a:hover{
 
     .machinery.cust-first:after{
         top: auto;
-        bottom: 0;
+        bottom: 40px;
         width: 100%;
         border-bottom: 1px solid #fff;
         height: 35%;
@@ -2163,7 +2163,8 @@ ul.contact-us li a:hover{
     }
 
     .machinery.cust-sec:after{
-        top: 40px;
+        bottom: 80px;
+        top: auto;
         width: 100%;
         transform: skew(18deg);
         border-top: 1px solid #fff;
@@ -2198,7 +2199,7 @@ ul.contact-us li a:hover{
 
     .machinery.cust-sec .content {
         padding-left: 0;
-        padding-bottom: 0;
+        padding-top: 0;
         text-align: left;
     }
 

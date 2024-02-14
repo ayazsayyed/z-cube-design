@@ -41,18 +41,8 @@ $page_head = ucwords($page_head);
 
                         <h2>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h2>
 
-                        <div class="cust-author">
-                            <div class="col-left">
-                                <img src="" alt="">
-                            </div>
-                            <div class="col-right">
-                                <span>Author Name</span>
-                                <p>Author</p>
-                            </div>
-                        </div>
-
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/commercial/deutsche-bank/3d-images/3d-image-4.jpg" alt="">
+                            <img src="./assets/images/project-categories/commercial/deutsche-bank/3d-images/3d-image-4.jpg" alt="blog post image">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
@@ -91,7 +81,7 @@ $page_head = ucwords($page_head);
                         <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
                             <div class="per-wrap">
                                 <div class="cust-img">
-                                    <img src="" alt="">
+                                    <img src="" alt="profile image">
                                 </div>
                                 <div class="cust-name-desig">
                                     <span>abc author name </span>

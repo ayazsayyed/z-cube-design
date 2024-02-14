@@ -27,7 +27,6 @@ $page_head = ucwords($page_head);
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
-					<!-- <p>Our Blog</p> -->
 					<h3>Our Blog</h3>
 				</div>
 			</div>
@@ -120,7 +119,7 @@ $page_head = ucwords($page_head);
         <div class="container">
 
             <div class="background-img">
-                <img src="./assets/images/your-dream-bg.png" alt="">
+                <img src="./assets/images/your-dream-bg.png" alt="background image">
             </div>
 
             <div class="row">
