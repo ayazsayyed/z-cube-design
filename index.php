@@ -52,7 +52,7 @@ $page_head = ucwords($page_head);
 			<div class="row align-items-center">
 				<div class="col-12 col-lg-6" data-scrollreveal="enter left over 1.5s">
 					<div class="content about_text">
-						<h5 class="sub_title orange"> WHO WE ARE </h1>
+						<h5 class="sub_title orange"> WHO WE ARE </h5>
 						<h1> We Are Expert In Space Utilisation.  </h1>
 						<p class="d-none"> Z cube Design Pvt. Ltd. is a Turnkey Interior Design & Build firm based in Mumbai. We work with a single minded goal – to create aesthetics spaces that are a joy to live & work in ergonomically. And we do this, by establishing a precise collaboration between design team, execution team and the client. Z cube Design are team of Artisans. Designers. Architects. Interior designers. <br />
 							Project management consultants, Planners. Strategists. Experience designers. We are Innovators. Ideators. Creators. Happy to solve on-site problems. And with every project, every client, we seek results. Results that support the Hallmark of our Firm that Is On-Time Completion of Projects.</p>
@@ -728,7 +728,7 @@ $page_head = ucwords($page_head);
 		<div class="container">		
 			<div class="row justify-content-md-center">
 				<div class="col-12 col-lg-3" data-scrollreveal="enter left over 1.5s">
-					<h5 class="sub_title orange"> HOW WE WORK </h1>
+					<h5 class="sub_title orange"> HOW WE WORK </h5>
 					<h1> 3 Easy steps to get interior design </h1>
 					<p> "Discover our process: Consult, Design, Transform. Your dream interior awaits!"</p> 
 				</div> 
@@ -766,43 +766,39 @@ $page_head = ucwords($page_head);
 
             <div class="blog-col-wrap">
 
-                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="blog-post-1.php" target="_blank">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
+				<div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/natural-light.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>16th feb 2024</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h4>
-                            <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions.
-                            </p>
-                        </div>
-                    </a>
+                        <h4>Brighten Your Space: How to Optimize Window Placement for Maximum Natural Light and Visual Impact</h4>
+                        <p>
+                            Windows are not just openings in your walls; they're opportunities to invite natural light and enhance the visual appeal of your living space.
+                        </p>
+                        <a href="blog-post-3.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
-                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="blog-post-2.php" target="_blank">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
+				<div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/termite-free-img.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>29th dec 2023</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>The Art of Fusion: Blending Styles for Timeless Elegance</h4>
-                            <p>
-                                At Z-Cube Design, we believe in the power of fusion, where diverse styles come 
-                                together to create spaces that transcend trends and stand the test of time. 
-                            </p>
-                        </div>
-                    </a>
+                        <h4>The Ultimate Guide to Maintaining Your House Furniture and Keeping it Termite-Free in India</h4>
+                        <p>
+                            Your home is your sanctuary, and the furniture within it plays a crucial role in creating a 
+                            comfortable and inviting living space.
+                        </p>
+                        <a href="blog-post-2.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
             </div>
@@ -814,7 +810,7 @@ $page_head = ucwords($page_head);
 		<div class="container">		
 			<div class="row justify-content-md-center">
 				<div class="col-12 col-lg-8 text-center" data-scrollreveal="enter left over 1.5s">
-					<h5 class="sub_title orange"> YOU DREAM IT, WE DESIGN IT</h1>
+					<h5 class="sub_title orange"> YOU DREAM IT, WE DESIGN IT</h5>
 					<h1> We can build you the Furniture of your dreams  </h1>
 					<br />
 					<p>

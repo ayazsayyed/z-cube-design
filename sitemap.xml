@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Home Page -->
+    <url>
+        <loc>https://www.zcubedesign.com/</loc>
+        <lastmod>2024-02-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://zcubedesign.com/index.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/about-us.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/our-factory.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/projects.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/clients.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/testimonials.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/team.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/contact-us.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/blog.php</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Design-Built-Turnkey</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=deh-kolkata</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Andheri</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=sequel</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Gorakhpur</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=deh-vashi</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Nashik</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=wework</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=indus-club</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=nepean-sea-road</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=247park</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=eversana</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=hh-global</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=money-gram</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=nielson</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=square-yard</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=lowerparel-mumbai</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=lowerparel-2</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Delhi</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Hyderabad</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Raipur</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Tumkur</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Asianpaints-Mohali</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=deh-tumkur</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=beer-cafe</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asian-paints-colour-academy</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asianpaints-Ahmedabad</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asianpaints-coimbatore</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asianpaints-Vijayawada</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=Beautiful-Home-Chennai</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asianpaints-Kerala</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+    <url>
+        <loc>https://zcubedesign.com/details.php?work=asianpaints-Tirupur</loc>
+        <lastmod>2024-02-12T05:52:06+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.64</priority>
+    </url>
+
+</urlset>

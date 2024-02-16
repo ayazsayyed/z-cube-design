@@ -190,36 +190,9 @@ $page_head = ucwords($page_head);
 			<div class="row">
 				<div class="col-lg-12">
 					<h2 class="edgtf-st-title"> Work With Us </h2>
-					<!-- <p> Z Cube Design Pvt. Ltd. is a Turnkey Interior Design & Build firm that stands tall on its 20+ years of experience in the industry, having delivered over 50 million sq. ft. through 100+ Projects across 60 cities in India. We have an in-house team comprising the best of Architects, Interior Designers, Project Managers & MEP Consultants.  </p>  -->
 					<p>At Z Cube Interior Design, we're on a mission to transform spaces into exceptional environments. We believe in the power of design to enhance lives, and we're looking for talented individuals who share our passion for creating extraordinary interior spaces.</p>
 					<br />
 				</div>
-				<!-- <div class="col-lg-6 job_list">					
-					<div class="card">					
-						<h4> Project manager </h4>
-						<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.  </p> 
-						
-						<ul>
-							<li> <p> LOCATION <span> Andheri </span> </p> </li>
-							<li> <p> SALARY <span> 30K/month </span> </p> </li>
-							<li> <p> HOW WORK <span> Remote </span> </p> </li>
-						</ul>
-						<p> Posted: August 7, 2022 </p>
-					</div>
-				</div>
-				<div class="col-lg-6 job_list">					
-					<div class="card">					
-						<h4> Site Supervisor </h4>
-						<p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.  </p> 
-						
-						<ul>
-							<li> <p> LOCATION <span> Andheri </span> </p> </li>
-							<li> <p> SALARY <span> 30K/month </span> </p> </li>
-							<li> <p> HOW WORK <span> Remote </span> </p> </li>
-						</ul>
-						<p> Posted: August 7, 2022 </p>
-					</div>
-				</div> -->
 			</div>
 
 			<div class="row"> 
