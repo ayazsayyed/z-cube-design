@@ -52,61 +52,92 @@ $page_head = ucwords($page_head);
             <div class="blog-col-wrap">
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="blog-post-1.php">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/natural-light.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>16th feb 2024</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h4>
-                            <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions.
-                            </p>
-                        </div>
-                    </a>
+                        <h4>Brighten Your Space: How to Optimize Window Placement for Maximum Natural Light and Visual Impact</h4>
+                        <p>
+                            Windows are not just openings in your walls; they're opportunities to invite natural light and enhance the visual appeal of your living space.
+                        </p>
+                        <a href="blog-post-3.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="blog-post-2.php">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/termite-free-img.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>29th dec 2023</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>The Art of Fusion: Blending Styles for Timeless Elegance</h4>
-                            <p>
-                                At Z-Cube Design, we believe in the power of fusion, where diverse styles come 
-                                together to create spaces that transcend trends and stand the test of time. 
-                            </p>
-                        </div>
-                    </a>
+                        <h4>The Ultimate Guide to Maintaining Your House Furniture and Keeping it Termite-Free in India</h4>
+                        <p>
+                            Your home is your sanctuary, and the furniture within it plays a crucial role in creating a 
+                            comfortable and inviting living space.
+                        </p>
+                        <a href="blog-post-2.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
                 <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
-                    <a href="blog-post-3.php">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/our-blog/blog-img.webp" alt="blog post image"></figure>
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/office-space.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>27th oct 2023</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>Illuminating Spaces: The Magic of Lighting in Interior Design</h4>
-                            <p>Welcome to Z-Cube Design, where we believe that lighting is the unsung hero of interior 
-                                design. In this blog post, we shine a spotlight on the transformative power of lighting and how it can elevate 
-                                the mood, functionality, and aesthetics of any space. 
-                            </p>
+                        <h4>Designing Your Dream Office in Mumbai? Here Are 7 Essential Things to Plan</h4>
+                        <p>
+                            Designing an office space in Mumbai requires careful planning and consideration to 
+                            ensure a functional, productive, and aesthetically pleasing environment.
+                        </p>
+                        <a href="blog-post-4.php" class="btn"> Continue Reading </a>
+                    </div>
+                </div>
+
+                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/online-business.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>07th jun 2023</p>
                         </div>
-                    </a>
+                        <h4>7 Convincing Reasons Why Buying Furniture Online in India is the Way to Go</h4>
+                        <p>
+                            In recent years, the landscape of furniture shopping in India has undergone a remarkable 
+                            transformation, thanks to the emergence of online retailers. Gone are the days of trudging 
+                            through crowded stores and limited selections.
+                        </p>
+                        <a href="blog-post-1.php" class="btn"> Continue Reading </a>
+                    </div>
+                </div>
+
+                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/blog-img.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>20th nov 2022</p>
+                        </div>
+                        <h4>Dreaming of a Home in Mumbai? Here Are 5 Essential Things to Plan Before Designing Your House</h4>
+                        <p>
+                            Designing a home in Mumbai is an exciting journey filled with possibilities, but it also requires careful planning to navigate the city's unique challenges and opportunities.                            
+                        </p>
+                        <a href="blog-post-5.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
                 
@@ -141,33 +172,3 @@ $page_head = ucwords($page_head);
     </div>
 
 <?php include('footer.php');?>
-
-<script>
-var a = 0;
-$(window).scroll(function() {
-  var oTop = $('#counter').offset().top - window.innerHeight;
-  if (a == 0 && $(window).scrollTop() > oTop) {
-    $('.counter-value').each(function() {
-      var $this = $(this),
-        countTo = $this.attr('data-count');
-      $({
-        countNum: $this.text()
-      }).animate({
-          countNum: countTo
-        },
-        {
-          duration: 2000,
-          easing: 'swing',
-          step: function() {
-            $this.text(Math.floor(this.countNum));
-          },
-          complete: function() {
-            $this.text(this.countNum);
-            //alert('finished');
-          }
-        });
-    });
-    a = 1;
-  }
-});
-</script>

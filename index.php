@@ -766,43 +766,39 @@ $page_head = ucwords($page_head);
 
             <div class="blog-col-wrap">
 
-                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="blog-post-1.php" target="_blank">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" alt="blog post image"></figure>
+				<div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/natural-light.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>16th feb 2024</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h4>
-                            <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions.
-                            </p>
-                        </div>
-                    </a>
+                        <h4>Brighten Your Space: How to Optimize Window Placement for Maximum Natural Light and Visual Impact</h4>
+                        <p>
+                            Windows are not just openings in your walls; they're opportunities to invite natural light and enhance the visual appeal of your living space.
+                        </p>
+                        <a href="blog-post-3.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
-                <div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s" data-sr-init="true" data-sr-complete="true">
-                    <a href="blog-post-2.php" target="_blank">
-                        <div class="cust-blog-img">
-                            <figure><img src="./assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" alt="blog post image"></figure>
+				<div class="blog-wrap" data-scrollreveal="enter bottom over 1.5s">
+                    <div class="cust-blog-img">
+                        <figure><img src="./assets/images/our-blog/termite-free-img.webp" alt="blog post image"></figure>
+                    </div>
+                    <div class="cust-blog-content">
+                        <div class="cust-date-categories">
+                            <span>Publish on</span>
+                            <p>29th dec 2023</p>
                         </div>
-                        <div class="cust-blog-content">
-                            <div class="cust-date-categories">
-                                <span>Sales and Marketing</span>
-                                <p>02-10-2023</p>
-                            </div>
-                            <h4>The Art of Fusion: Blending Styles for Timeless Elegance</h4>
-                            <p>
-                                At Z-Cube Design, we believe in the power of fusion, where diverse styles come 
-                                together to create spaces that transcend trends and stand the test of time. 
-                            </p>
-                        </div>
-                    </a>
+                        <h4>The Ultimate Guide to Maintaining Your House Furniture and Keeping it Termite-Free in India</h4>
+                        <p>
+                            Your home is your sanctuary, and the furniture within it plays a crucial role in creating a 
+                            comfortable and inviting living space.
+                        </p>
+                        <a href="blog-post-2.php" class="btn"> Continue Reading </a>
+                    </div>
                 </div>
 
             </div>

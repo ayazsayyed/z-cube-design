@@ -103,7 +103,7 @@ box-shadow: 0 2px 5px rgba(16,16,16,.08);  */ }
  transition:all 0.4s ease 0s; position:relative; }
 .navbar .navbar-nav>li>a.active, .navbar .navbar-nav>li>a:focus, .navbar .navbar-nav>li>a:hover,
 .navbar .navbar-nav>li>a.active { border-bottom:4px solid#f16638; }
-.logo { width:65px; padding:0px; display: block; margin-left: 15px;}
+.logo { width:65px; padding:0px; display: block;}
 
 .navbar .logo_light { display:none; }
 .navbar .logo_dark { display:block; }

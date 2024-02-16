@@ -34,69 +34,165 @@ $page_head = ucwords($page_head);
                 <div class="blog-wrap">
                     <div class="cust-blog-content">
 
-                        <div class="cust-date-categories">
-                            <span>Sales and Marketing</span>
+                        <!-- <div class="cust-date-categories">
+                            <span>Light and Visual Impact</span>
                             <p>2023-feb-10</p>
-                        </div>
-
-                        <h2>Illuminating Spaces: The Magic of Lighting in Interior Design</h2>
+                        </div> -->
 
                         <div class="blog-post-img">
-                            <img src="./assets/images/our-blog/blog-post/blog-post-1.jpg" alt="blog post image">
+                            <img src="./assets/images/our-blog/natural-light.webp" alt="blog post image">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
+                            <div class="cust-tim-dat">
+                                <span class="date">Tuesday, 13<sup>th</sup> February 2024</span>
+                                <!-- <span class="name">Akil Shaikh</span> -->
+                            </div>
+
+                            <h3>Brighten Your Space: How to Optimize Window Placement for Maximum Natural Light and Visual Impact</h3>
+
                             <h5><strong>Introduction</strong></h5>
 
                             <p>
-                                Welcome to Z-Cube Design, where we believe that lighting is the unsung hero of interior 
-                                design. In this blog post, we shine a spotlight on the transformative power of lighting and how it can elevate 
-                                the mood, functionality, and aesthetics of any space. Join us on a journey through the art of illumination, 
-                                as we explore the nuances of lighting design and its profound impact on the ambiance of your home or office.
+                                Windows are not just openings in your walls; they're opportunities to invite natural 
+                                light and enhance the visual appeal of your living space. Strategic window placement 
+                                can transform a room, making it feel brighter, airier, and more welcoming. In this 
+                                comprehensive guide, we'll explore expert tips and techniques for optimizing window 
+                                placement to maximize natural light and create stunning visual impact in your home.
                             </p>
 
-                            <h5><strong>Understanding Lighting Basics</strong></h5>
+                            <!-- <img src="./assets/images/our-blog/blog-post/blog-post-1.jpg" alt="blog post image" class="full-size"> -->
 
+                            <h3>The Benefits of Natural Light in Interior Design</h3>
+                            <!-- -->
+
+                            <h5><strong>Assess Your Space:</strong></h5>
                             <p>
-                                <strong>The Three Layers of Lighting</strong>
-                                <br>
-                                Uncover the secrets of effective lighting design by exploring the three fundamental layers: ambient, task, 
-                                and accent lighting. Our experts break down each layer, offering insights into how they work together to 
-                                create a well-balanced and inviting atmosphere.
+                                Before diving into window placement decisions, take a close look at your space to understand its layout, orientation, 
+                                and potential for natural light. Identify areas that receive ample sunlight throughout the day and those that may be 
+                                lacking in brightness. Consider the architectural features of your home, such as the placement of walls, doors, and 
+                                existing windows, to determine the best locations for new or additional windows.
                             </p>
 
-                            <h5><strong>Lighting for Different Spaces</strong></h5>
+                            <!-- -->
+
+                            <!-- -->
+
+                            <h5><strong>Mood Elevation:</strong></h5>
+                            <p>Natural light has the power to enhance mood and well-being by promoting the production of serotonin, 
+                                often referred to as the "feel-good" hormone. Spaces flooded with natural light feel inviting and 
+                                create a positive atmosphere.
+                            </p>
+
+                            <!-- -->
+
+                            <!-- -->
+
+
+                            <h5><strong>Capture the Sun's Path:</strong></h5>
                             <p>
-                                <strong>Kitchen Brilliance</strong>
-                                <br>
-                                Discover the key to achieving a well-lit and functional kitchen. From task lighting over workspaces to 
-                                ambient lighting for dining areas, our designers share tips on creating a bright and inviting culinary haven.
+                                Take advantage of the sun's natural trajectory to optimize window placement and maximize sunlight 
+                                exposure. South-facing windows receive the most sunlight throughout the day, making them ideal for 
+                                living areas, kitchens, and home offices. East-facing windows capture morning sunlight, perfect for 
+                                breakfast nooks and bedrooms, while west-facing windows provide warm afternoon light, ideal for 
+                                relaxation areas and dining spaces.
                             </p>
 
+                            <!-- -->
+
+                            <!-- -->
+
+                            <h5><strong>Balance Light:</strong></h5>
                             <p>
-                                <strong>Bedroom Serenity</strong>
-                                <br>
-                                Find out how to create a calming and cozy bedroom retreat with the right lighting choices. 
-                                Explore the use of warm, soft lighting to induce relaxation and the importance of task lighting for reading 
-                                or dressing areas.
+                                While maximizing natural light is important, it's equally crucial to balance light with privacy 
+                                considerations. Opt for taller windows that allow sunlight to enter from above while maintaining 
+                                privacy from neighboring properties or street views. Consider frosted or textured glass, window 
+                                treatments, or strategically placed landscaping to shield your space from prying eyes without 
+                                compromising natural light
                             </p>
 
-                            <h5><strong>Conclusion</strong></h5>
+                            <!-- -->
+
+                            <!-- -->
+
+                            <h5><strong>Creating A Focal Points:</strong></h5>
                             <p>
-                                At Z-Cube Design, we believe that lighting is an art form that can breathe life into 
-                                any space. Whether you're looking to create a cozy nook or a vibrant work environment, our team is here to 
-                                guide you through the intricacies of lighting design.
-
-                                <br> <br>
-                                For inquiries or to start your design journey with us, <a href="tel:02226391313">022 – 26391313</a>.
-
-                                <br> <br>
-
-                                Z-Cube Design -  Illuminating Your World, One Space at a Time.
+                                Strategically placed windows can serve as focal points in your home, drawing the eye 
+                                and enhancing architectural interest. Frame picturesque views, architectural details, 
+                                or outdoor landscapes with large windows or expansive glass panels to create stunning 
+                                visual impact. Consider asymmetrical window arrangements or unique shapes and sizes 
+                                to add character and charm to your space.
                             </p>
+
+                            <!-- -->
+
+                            <!-- -->
+
+                            <h5><strong>Enhance Indoor-Outdoor Connection:</strong></h5>
+                            <p>
+                                Maximize window placement to blur the boundaries between indoor and outdoor living spaces, 
+                                creating a seamless connection to nature. Install large sliding glass doors or floor-to-ceiling 
+                                windows that open onto patios, gardens, or outdoor living areas to flood your interior with 
+                                natural light and create a sense of openness and expansiveness. Choose window treatments 
+                                that allow for unobstructed views and easy access to outdoor spaces.
+                            </p>
+
+                            <!-- -->
+
+                            <!-- -->
+
+                            <h5><strong>Consider Architectural Style:</strong></h5>
+                            <p>
+                                When planning window placement, consider the architectural style of your home and its 
+                                historical context. Opt for window styles and placement that complement the overall 
+                                aesthetic of your home, whether it's traditional, contemporary, or eclectic. Incorporate 
+                                architectural elements such as transom windows, bay windows, or clerestory windows to add 
+                                character and authenticity to your space.
+                            </p>
+
+                            <!-- -->
+
+                             <!-- -->
+
+                             <h5><strong>Consult with a Professional:</strong></h5>
+                            <p>
+                                If you're unsure about the best window placement for your home or feeling overwhelmed 
+                                by the design process, consider consulting with a professional architect or designer. 
+                                A trained design professional can assess your space, offer expert advice, and create a 
+                                customized window placement plan that maximizes natural light, enhances aesthetic appeal, 
+                                and optimizes functionality to suit your lifestyle and preferences.
+                            </p>
+
+                            <!-- -->
+
+                            <!-- -->
+            
+                            <div class="conclusion">
+                                <h5><strong>Conclusion</strong></h5>
+                                <p>
+                                    In conclusion, optimizing window placement is a transformative design strategy that can 
+                                    enhance the beauty, functionality, and livability of your home. By strategically 
+                                    positioning windows to capture sunlight, create focal points, enhance indoor-outdoor 
+                                    connection, and complement architectural style, you can create a bright, inviting, 
+                                    and visually stunning living space that reflects your unique style and personality.
+                                </p>
+                            </div>
+                            
+                            <!-- -->
+
+                            <div class="tags">
+                                <ul>
+                                    <li>Space</li>
+                                    <li>Natural Light</li>
+                                    <li>Interior Design</li>
+                                    <li>Focal Points</li>
+                                </ul>
+                            </div>
+
                         </div>
 
-                        <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
+                        <!-- 
+                            <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
                             <div class="per-wrap">
                                 <div class="cust-img">
                                     <img src="" alt="profile image">
@@ -111,7 +207,8 @@ $page_head = ucwords($page_head);
                                     Donec consequat tortor risus, at auctor felis consequat a. Donec quis dolor sem. Sed sollicitudin 
                                     magna in hendrerit pulvinar. Vestibulum non quam velit.</p>
                             </div>
-                        </div>
+                            </div>
+                        -->
 
                     </div>
                 </div>
@@ -121,33 +218,3 @@ $page_head = ucwords($page_head);
     </div>
 
 <?php include('footer.php');?>
-
-<script>
-var a = 0;
-$(window).scroll(function() {
-  var oTop = $('#counter').offset().top - window.innerHeight;
-  if (a == 0 && $(window).scrollTop() > oTop) {
-    $('.counter-value').each(function() {
-      var $this = $(this),
-        countTo = $this.attr('data-count');
-      $({
-        countNum: $this.text()
-      }).animate({
-          countNum: countTo
-        },
-        {
-          duration: 2000,
-          easing: 'swing',
-          step: function() {
-            $this.text(Math.floor(this.countNum));
-          },
-          complete: function() {
-            $this.text(this.countNum);
-            //alert('finished');
-          }
-        });
-    });
-    a = 1;
-  }
-});
-</script>

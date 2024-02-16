@@ -34,66 +34,149 @@ $page_head = ucwords($page_head);
                 <div class="blog-wrap">
                     <div class="cust-blog-content">
 
-                        <div class="cust-date-categories">
-                            <span>Sales and Marketing</span>
-                            <p>2023-feb-10</p>
-                        </div>
-
-                        <h2>Transforming Spaces: A Glimpse into Our Interior Design Excellence</h2>
-
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/commercial/deutsche-bank/3d-images/3d-image-4.jpg" alt="blog post image">
+                            <img src="./assets/images/our-blog/online-business.webp" alt="blog post image">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
+                            <div class="cust-tim-dat">
+                                <span class="date">Wednesday, 07<sup>th</sup> June 2023</span>
+                                <!-- <span class="name">Akil Shaikh</span> -->
+                            </div>
+
+                            <h3>"Discover the Top 7 Benefits of Purchasing Furniture Online in India - Your Complete Guide!"</h3>
+
                             <h5><strong>Introduction</strong></h5>
 
                             <p>
-                                Welcome to Z-Cube Design, where we turn ordinary spaces into extraordinary experiences. 
-                                In this blog post, we invite you to embark on a journey through the artistry of interior design, exploring 
-                                the transformative power of our creative solutions. Join us as we share insights, trends, and success stories 
-                                that reflect our passion for crafting spaces that tell unique stories.
+                                In recent years, the furniture shopping in India has undergone a remarkable transformation, 
+                                thanks to the online retailers. Gone are the days of trudging 
+                                through crowded stores and limited selections. Today, savvy shoppers are turning to the c
+                                onvenience and versatility offered by online furniture shopping. If you're still on the fence, 
+                                here are seven compelling reasons why buying furniture online in India is the ultimate choice 
+                                for modern consumers.
                             </p>
 
-                            <h5><strong>Crafting Environments, Creating Memories</strong></h5>
+                            <!--  -->
 
-                            <p><strong>The Essence of Interior Design</strong></p>
+                            <h5><strong>Endless Selection, Limitless Possibilities:</strong></h5>
                             <p>
-                                At Z-Cube Design, we believe that interior design is not just about aesthetics but 
-                                a reflection of your lifestyle and personality. Our team of seasoned designers brings a blend of creativity 
-                                and functionality to every project, ensuring each space is a harmonious extension of its inhabitants.
+                                One of the most significant advantages of shopping for furniture online is 
+                                the sheer variety at your fingertips. From classic to contemporary, minimalist to 
+                                maximalist, online retailers curate extensive collections to suit every taste and 
+                                style preference. Whether you're furnishing a cozy apartment or a sprawling villa, 
+                                you'll find furniture that perfectly complements your space with just a few clicks.
                             </p>
 
-                            <h5><strong>Conclusion</strong></h5>
+                            <!--  -->
+
+                            <h5><strong>Convenience Redefined</strong></h5>
                             <p>
-                                At Z-Cube Design, our commitment goes beyond creating visually stunning spaces; we aim to elevate your lifestyle 
-                                and enhance your well-being through thoughtful and innovative design. Whether you are looking to revamp your 
-                                living room, office, or commercial space, we are here to turn your dreams into reality.
-                                <br> <br>
-                                Thank you for joining us on this journey through the world of interior design. 
-                                Stay inspired, and let your spaces tell the story of who you are.
-                                For inquiries or to start your design journey with us, <a href="tel:02226391313">022 – 26391313</a>.
-                                <br> <br>
-                                Z-Cube Design - Where Every Space Tells a Story.
+                                Say goodbye to the hassle of navigating traffic, scouring multiple stores, and lugging heavy 
+                                furniture back home. With online furniture shopping, convenience is king. Browse an extensive 
+                                catalog of products from the comfort of your home, office, or even on the go. No more waiting 
+                                in long queues or dealing with pushy salespeople. With just a few taps on your smartphone or 
+                                clicks on your computer, you can explore, compare, and purchase furniture effortlessly.
                             </p>
-                        </div>
 
-                        <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
-                            <div class="per-wrap">
-                                <div class="cust-img">
-                                    <img src="" alt="profile image">
-                                </div>
-                                <div class="cust-name-desig">
-                                    <span>abc author name </span>
-                                    <p>authore position</p>
-                                </div>
-                            </div>
-                            <div class="per-description">
+                            <!--  -->
+
+                            <h5><strong>Unbeatable Prices, Irresistible Deals:</strong></h5>
+                            <p>
+                                Online furniture retailers often offer competitive prices and attractive discounts that 
+                                you won't find in traditional brick-and-mortar stores. By cutting out the middleman and 
+                                operating solely online, these retailers pass on significant cost savings to customers. 
+                                Additionally, keep an eye out for exclusive deals, seasonal promotions, and flash sales 
+                                that can help you stretch your furniture budget further.
+                            </p>
+
+                            <!--  -->
+
+                            <h5><strong>Made-to-Order Perfection:</strong></h5>
+                            <p>
+                                Tired of settling for off-the-shelf furniture that doesn't quite meet your specifications? 
+                                With online furniture shopping, customization is key. Many online retailers offer made-to-order 
+                                options, allowing you to tailor furniture pieces to your exact dimensions, materials, finishes, 
+                                and upholstery preferences. Whether you're furnishing a compact urban apartment or a sprawling 
+                                countryside estate, personalized furniture ensures a perfect fit every time.
+                            </p>
+
+                            <!--  -->
+
+                            <h5><strong>Transparent Reviews, Trusted Insights:</strong></h5>
+                            <p>
+                                Making informed purchasing decisions is crucial when buying furniture online. 
+                                Thankfully, customer reviews and ratings provide valuable insights into product 
+                                quality, durability, and customer satisfaction. Before making a purchase, take 
+                                the time to read reviews from fellow shoppers to ensure that the furniture meets 
+                                your expectations. Additionally, reputable online retailers often provide detailed 
+                                product descriptions, dimensions, and specifications to help you make the right choice.
+                            </p>
+
+                             <!--  -->
+
+                             <h5><strong>Seamless Delivery, Stress-Free Setup:</strong></h5>
+                            <p>
+                                Worried about the logistics of furniture delivery and assembly? Online furniture retailers 
+                                have you covered. Enjoy the convenience of doorstep delivery, with professional logistics 
+                                teams ensuring that your furniture arrives safely and on time. Many retailers also offer 
+                                assembly services, taking the hassle out of setting up bulky furniture pieces. Sit back, 
+                                relax, and let the experts handle the heavy lifting while you envision your dream space taking shape.
+                            </p>
+
+                             <!--  -->
+
+                            <h5><strong>Eco-Friendly Choices, Sustainable Solutions:</strong></h5>
+                            <p>
+                                As environmental consciousness continues to grow, online furniture retailers are increasingly 
+                                prioritizing sustainability and eco-friendliness. From responsibly sourced materials to 
+                                energy-efficient production processes, many online furniture brands are leading the charge 
+                                towards a greener future. By choosing to buy furniture online, you can support environmentally 
+                                conscious brands and contribute to positive change in the furniture industry.
+                            </p>
+
+                            <!--  -->
+
+                            <div class="conclusion">
+                                <h5><strong>Conclusion:</strong></h5>
                                 <p>
-                                    Donec consequat tortor risus, at auctor felis consequat a. Donec quis dolor sem. Sed sollicitudin 
-                                    magna in hendrerit pulvinar. Vestibulum non quam velit.</p>
+                                    In conclusion, buying furniture online in India offers a multitude of benefits that 
+                                    simply can't be matched by traditional brick-and-mortar stores. From unparalleled 
+                                    selection and convenience to unbeatable prices and sustainable options, online furniture 
+                                    shopping is the smart choice for modern consumers. So why wait? Explore the endless 
+                                    possibilities of online furniture shopping today and transform your living space into 
+                                    a true reflection of your style and personality.
+                                </p>
                             </div>
+                           
+                            <div class="tags">
+                                <ul>
+                                    <li>Online Furniture</li>
+                                    <li>Price</li>
+                                    <li>easy setup</li>
+                                </ul>
+                            </div>
+
                         </div>
+
+                        <!--
+                            <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
+                                <div class="per-wrap">
+                                    <div class="cust-img">
+                                        <img src="" alt="profile image">
+                                    </div>
+                                    <div class="cust-name-desig">
+                                        <span>abc author name </span>
+                                        <p>authore position</p>
+                                    </div>
+                                </div>
+                                <div class="per-description">
+                                    <p>
+                                        Donec consequat tortor risus, at auctor felis consequat a. Donec quis dolor sem. Sed sollicitudin 
+                                        magna in hendrerit pulvinar. Vestibulum non quam velit.</p>
+                                </div>
+                            </div>
+                        -->
 
                     </div>
                 </div>
@@ -103,33 +186,3 @@ $page_head = ucwords($page_head);
     </div>
 
 <?php include('footer.php');?>
-
-<script>
-var a = 0;
-$(window).scroll(function() {
-  var oTop = $('#counter').offset().top - window.innerHeight;
-  if (a == 0 && $(window).scrollTop() > oTop) {
-    $('.counter-value').each(function() {
-      var $this = $(this),
-        countTo = $this.attr('data-count');
-      $({
-        countNum: $this.text()
-      }).animate({
-          countNum: countTo
-        },
-        {
-          duration: 2000,
-          easing: 'swing',
-          step: function() {
-            $this.text(Math.floor(this.countNum));
-          },
-          complete: function() {
-            $this.text(this.countNum);
-            //alert('finished');
-          }
-        });
-    });
-    a = 1;
-  }
-});
-</script>

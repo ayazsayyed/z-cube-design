@@ -34,56 +34,110 @@ $page_head = ucwords($page_head);
                 <div class="blog-wrap">
                     <div class="cust-blog-content">
 
-                        <div class="cust-date-categories">
-                            <span>Sales and Marketing</span>
-                            <p>2023-feb-10</p>
-                        </div>
-
-                        <h2>The Art of Fusion: Blending Styles for Timeless Elegance</h2>
-
                         <div class="blog-post-img">
-                            <img src="./assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" alt="blog post image">
+                            <img src="./assets/images/our-blog/termite-free-img.webp" alt="blog post image">
                         </div>
 
                         <div class="blog-post-description"  data-scrollreveal="enter bottom over 1.5s">
+                            <div class="cust-tim-dat">
+                                <span class="date">Friday, 29<sup>th</sup> December 2023</span>
+                                <!-- <span class="name">Akil Shaikh</span> -->
+                            </div>
+
+                            <h3>The Ultimate Guide to Maintaining Your House Furniture and Keeping it Termite-Free in India</h3>
                             <h5><strong>Introduction</strong></h5>
 
                             <p>
-                                At  Z-Cube Design, we believe in the power of fusion, where diverse styles come together 
-                                to create spaces that transcend trends and stand the test of time. In this blog post, we explore the art of 
-                                blending styles to achieve a harmonious and timeless elegance. Join us on this design journey as we unravel 
-                                the beauty of eclectic interiors that seamlessly merge the old and the new.
+                                Your home is your sanctuary, and the furniture within it plays a crucial role in creating a 
+                                comfortable and inviting living space. However, maintaining your house furniture and protecting 
+                                it from termite damage are essential tasks that every homeowner in India should prioritize. 
+                                In this comprehensive guide, we'll explore effective strategies for preserving the beauty and
+                                longevity of your furniture while keeping dreaded termites at bay.
                             </p>
 
-                            <h5><strong>Embracing Eclecticism</strong></h5>
+                            <!-- -->
+                            <h5><strong>Regular Cleaning and Dusting:</strong></h5>
 
                             <p>
-                                <strong>The Beauty of Mix and Match</strong>
-                                <br>
-                                Uncover the secrets of eclectic interior design, where seemingly contrasting elements coalesce into a 
-                                cohesive and visually stunning whole. Our designers share tips on how to master the art of mix and match, 
-                                ensuring that every piece tells a story while contributing to the overall narrative of the space.
+                                Regular cleaning is the first line of defense against dirt, dust, and grime that 
+                                can accumulate on your furniture surfaces. Dust your furniture with a soft cloth 
+                                or microfiber duster at least once a week to remove surface dust and debris. For 
+                                wooden furniture, use a gentle wood cleaner or a mixture of mild soap and water 
+                                to wipe away dirt and stains. Avoid using abrasive cleaners or harsh chemicals, 
+                                as they can damage the finish of your furniture.
+                            </p>
+                            <!-- -->
+
+                            <!-- -->
+                            <h5><strong>Routine Maintenance and Repair:</strong></h5>
+
+                            <p>
+                                Inspect your furniture regularly for any signs of wear and tear, loose joints, or damaged 
+                                upholstery. Addressing minor issues promptly can prevent them from escalating into major 
+                                problems down the line. Tighten loose screws, repair scratches or nicks in wooden surfaces, 
+                                and patch up tears or frays in upholstery to keep your furniture looking its best for years to come.
+                            </p>
+                            <!-- -->
+
+                            <!-- -->
+                            <h5><strong>Protecting Against Termites:</strong></h5>
+
+                            <p>
+                                Termites pose a significant threat to wooden furniture, causing extensive damage if left unchecked. 
+                                To protect your furniture from termites, consider the following preventive measures:
                             </p>
 
-                            <h5><strong>Conclusion</strong></h5>
-                            <p>At Z-Cube Design, we celebrate the diversity of design styles and their ability to 
-                                coalesce into something truly extraordinary. The art of fusion is about creating spaces that are not bound 
-                                by limitations but enriched by the amalgamation of influences. If you're ready to embark on a design 
-                                journey that transcends boundaries, we're here to bring your vision to life.
+                            <ul>
+                                <li><strong>Use Termite-Resistant Materials: </strong> When purchasing new furniture, opt for pieces made from termite-resistant materials such as teak, cedar, or treated hardwoods.</li>
+                                <li><strong>Apply Protective Coatings: </strong>Apply a protective coating or sealant to wooden furniture to create a barrier against termites. Regularly reapply the coating as needed to ensure continued protection.</li>
+                                <li><strong>Keep Furniture Elevated: </strong>Elevate furniture pieces off the ground using furniture risers or coasters to minimize the risk of termite infestation from soil contact.</li>
+                                <li><strong>Monitor Moisture Levels: </strong>Termites thrive in moist environments, so be vigilant about controlling humidity levels in your home. Use dehumidifiers or moisture-absorbing products to keep indoor humidity levels in check.</li>
+                                <li><strong>Regular Inspections: </strong> Conduct regular inspections of your furniture and the surrounding areas for signs of termite activity, such as mud tubes, hollow-sounding wood, or discarded termite wings. If you suspect a termite infestation, seek professional pest control assistance immediately.</li>
+                            </ul>
+                            
+                            <!-- -->
+                            
+                            <!-- -->
+                            <h5><strong>Natural Remedies and Preventive Measures:</strong></h5>
 
-                                <br> <br>
-
-                                Thank you for joining us on this journey through the world of interior design. 
-                                Stay inspired, and let your spaces tell the story of who you are.
-                                For inquiries or to start your design journey with us, <a href="tel:02226391313">022 – 26391313</a>.
-
-                                <br> <br>
-
-                                Z-Cube Design - Where Style Knows No Boundaries.
+                            <p>
+                                In addition to chemical treatments, several natural remedies and preventive measures can help deter termites from infesting your furniture:
                             </p>
+
+                            <ul>
+                                <li><strong>Neem Oil:</strong> Neem oil is a natural insecticide that can be applied to wooden furniture to repel termites and other pests.</li>
+                                <li><strong>Orange Oil:</strong> Orange oil contains compounds that are toxic to termites. Apply orange oil to wooden furniture surfaces as a natural deterrent.</li>
+                                <li><strong>Boric Acid Sprinkling:</strong> Boric acid is a natural insecticide that can be mixed with water and applied to wooden surfaces to deter termites and other wood-boring pests.</li>
+                                <li><strong>White Vinegar Mixture:</strong> Utilize the common household ingredient, white vinegar, by blending it with lemon juice and water. This mixture acts as an accessible and effective solution against termite infestation.</li>
+                                <li><strong>Salt Solution:</strong> Common table salt, dissolved in water and sprayed, can dehydrate and eventually kill termites, offering a simple yet effective termite control home remedy.</li>
+                            </ul>
+
+                            <!-- -->
+
+                            <div class="conclusion">
+                                <h5><strong>Conclusion:</strong></h5>
+                                <p>
+                                    Maintaining your house furniture and protecting it from termite damage are 
+                                    essential tasks for every home owner in India. By following the tips outlined 
+                                    in this guide, you can ensure that your furniture remains in top condition for 
+                                    years to come while keeping pesky termites at bay. Remember to prioritize regular 
+                                    cleaning, routine maintenance, and proactive termite prevention measures to preserve 
+                                    the beauty and longevity of your furniture investment.
+                                </p>
+                            </div>
+
+                            <div class="tags">
+                                <ul>
+                                    <li>Wood</li>
+                                    <li>Furniture</li>
+                                    <li>Maintenance</li>
+                                    <li>interior</li>
+                                </ul>
+                            </div>
+
                         </div>
 
-                        <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
+                        <!-- <div class="blog-post-per"  data-scrollreveal="enter bottom over 1.5s">
                             <div class="per-wrap">
                                 <div class="cust-img">
                                 <img src="" alt="profile image">
@@ -98,7 +152,7 @@ $page_head = ucwords($page_head);
                                     Donec consequat tortor risus, at auctor felis consequat a. Donec quis dolor sem. Sed sollicitudin 
                                     magna in hendrerit pulvinar. Vestibulum non quam velit.</p>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
@@ -108,33 +162,3 @@ $page_head = ucwords($page_head);
     </div>
 
 <?php include('footer.php');?>
-
-<script>
-var a = 0;
-$(window).scroll(function() {
-  var oTop = $('#counter').offset().top - window.innerHeight;
-  if (a == 0 && $(window).scrollTop() > oTop) {
-    $('.counter-value').each(function() {
-      var $this = $(this),
-        countTo = $this.attr('data-count');
-      $({
-        countNum: $this.text()
-      }).animate({
-          countNum: countTo
-        },
-        {
-          duration: 2000,
-          easing: 'swing',
-          step: function() {
-            $this.text(Math.floor(this.countNum));
-          },
-          complete: function() {
-            $this.text(this.countNum);
-            //alert('finished');
-          }
-        });
-    });
-    a = 1;
-  }
-});
-</script>
