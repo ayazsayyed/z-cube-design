@@ -22,8 +22,8 @@ $page_head = ucwords($page_head);
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
 	<?php include('header.php');?>
-
-	<div class="inner_banner" style="background:url(img/innerbanner/about.jpg) no-repeat">
+    
+    <div class="inner_banner" style="background:url(img/innerbanner/about.jpg) no-repeat">
 		<img src="img/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
 	</div>
 

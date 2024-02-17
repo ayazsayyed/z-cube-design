@@ -34,6 +34,7 @@ $page_head = ucwords($page_head);
 		</div>
 		<img src="img/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
 	</div>
+
 	<div id="breadcrumb">
 		<div class="container">
 			<div class="row">
@@ -49,6 +50,7 @@ $page_head = ucwords($page_head);
 	
 	<section id="aboutpage" class="cut-aboutus-page">
 		<div class="controls-switch"></div>
+		
 		<div class="container">		
 			<div class="row align-items-center">
 
@@ -79,7 +81,7 @@ $page_head = ucwords($page_head);
 				</div>	
 
 				<div class="col-lg-6" data-scrollreveal="enter left over 1.5s">
-					<img src="./assets/images/collarge-images/home-about-us-1.png" class="img-fluid" alt="about us image" />					
+					<img src="./assets/images/collarge-images/home-about-us.webp" class="img-fluid" alt="about us image" />					
 				</div>
 
 			</div>	

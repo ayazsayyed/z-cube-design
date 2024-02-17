@@ -2,33 +2,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">   
 
+	<meta name="description" content="Z Cube Design Pvt Ltd, a prominent Mumbai-based turnkey Interior Design & Build firm, excels in the art of space utilization. Our expertise lies in transforming spaces into functional, aesthetically pleasing environments">
+	<meta name="robots" content="follow, index">
+
 	<link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
 	<link rel="manifest" href="./assets/favicon/site.webmanifest">
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="theme-color" content="#ffffff">
-	
-	<!-- Fonts -->
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css?family=Heebo:400,500&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Space+Grotesk:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"  crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="css/jquery.fancybox.min.css" type="text/css">
 
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-	<link rel="stylesheet" type="text/css" href="assets/css/vanilla-tabs.css"/>
-	<link rel="stylesheet" type="text/css" href="assets/css/vanilla-tabs.min.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/css/vanilla-tabs.css" />
+	<link rel="stylesheet" type="text/css" href="assets/css/vanilla-tabs.min.css" />
 	
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css?v=1.1" rel="stylesheet">
-	<link href="assets/css/stylenew.css?v=1.1" rel="stylesheet">
-	
-	<script src="js/jquery-1.11.0.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/style.css?v=1.1" rel="stylesheet" />
+	<link href="assets/css/stylenew.css?v=1.1" rel="stylesheet" />
 
+	
 </head>
 
 <body id="page-top"> 
+	
 	
 	<header class="header_menu_area white_menu">
 
@@ -53,7 +52,7 @@
 
 		<div class="container">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light">
-				<a class="navbar-brand logo" href="index.php">
+				<a class="navbar-brand logo" href="index">
 					<img src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
 					<img src="./assets/images/sticky-logo.png" class="logo_dark_1 img-fluid" alt="z cube design logo" />
 				</a>
@@ -74,14 +73,14 @@
 
 	<header class="full_header content-white mobile_menu">
 		<div class="float-left">
-			<a href="index.php" class="logo">
+			<a href="index" class="logo">
 				<img src="img/logo_w.png" class="img-fluid" alt="z cube design logo" />
 				<img src="./assets/images/sticky-logo.png" class="img-fluid" alt="z cube design logo" />
 			</a>
 		</div>
 		<div class="float-right">
 			<div class="bar_menu">
-				<i class="lnr lnr-menu"></i>
+				<img src="./assets/icons/hamburger-open.svg" alt="">
 			</div>
 		</div>
 	</header>
@@ -89,7 +88,7 @@
 	<div class="click-capture"></div>
 
 	<div class="side_menu">
-		<span class="close-menu lnr lnr-cross right-boxed"></span>
+		<span class="close-menu right-boxed"><img src="./assets/icons/menu-close.svg" alt=""></span>
 		<ul class="menu-list right-boxed ">
 			<?php include('nav.php'); ?>
 		</ul>

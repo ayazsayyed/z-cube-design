@@ -25,9 +25,9 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
         <div class="item">
           <div class="projects_item">
             <img src="${thumbnail}" class="img-fluid d-block">
-            <div class="hover"><a href="details.php?work=${seo_url}"><i class="ion-android-arrow-forward"></i></a>
+            <div class="hover"><a href="details?work=${seo_url}"><i class="ion-android-arrow-forward"></i></a>
               <div class="project_text">
-                <h5>${type}</h5><a href="details.php?work=${seo_url}"><h4><span>${title}</span></h4></a></div>
+                <h5>${type}</h5><a href="details?work=${seo_url}"><h4><span>${title}</span></h4></a></div>
             </div>
           </div>
         </div>
@@ -124,7 +124,7 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
         html += `
         <div class="portfolio-item col-lg-4 col-sm-4 ${type} all">
           <div class="projects_item">
-            <a href="details.php?work=${seo_url}"><img src="${thumbnail}" class="img-fluid d-block w-100" alt="${title}">
+            <a href="details?work=${seo_url}"><img src="${thumbnail}" class="img-fluid d-block w-100" alt="${title}">
               <div class="hover"><i class="ion-android-arrow-forward"></i>
                 <div class="project_text">
                   <span>${sub_title}</span>
