@@ -64,7 +64,7 @@ $page_head = ucwords($page_head);
                         <p>
                             Windows are not just openings in your walls; they're opportunities to invite natural light and enhance the visual appeal of your living space.
                         </p>
-                        <a href="blog-post-3.php" class="btn"> Continue Reading </a>
+                        <a href="blog-post-3" class="btn"> Continue Reading </a>
                     </div>
                 </div>
 
@@ -82,7 +82,7 @@ $page_head = ucwords($page_head);
                             Your home is your sanctuary, and the furniture within it plays a crucial role in creating a 
                             comfortable and inviting living space.
                         </p>
-                        <a href="blog-post-2.php" class="btn"> Continue Reading </a>
+                        <a href="blog-post-2" class="btn"> Continue Reading </a>
                     </div>
                 </div>
 
@@ -100,7 +100,7 @@ $page_head = ucwords($page_head);
                             Designing an office space in Mumbai requires careful planning and consideration to 
                             ensure a functional, productive, and aesthetically pleasing environment.
                         </p>
-                        <a href="blog-post-4.php" class="btn"> Continue Reading </a>
+                        <a href="blog-post-4" class="btn"> Continue Reading </a>
                     </div>
                 </div>
 
@@ -119,7 +119,7 @@ $page_head = ucwords($page_head);
                             transformation, thanks to the emergence of online retailers. Gone are the days of trudging 
                             through crowded stores and limited selections.
                         </p>
-                        <a href="blog-post-1.php" class="btn"> Continue Reading </a>
+                        <a href="blog-post-1" class="btn"> Continue Reading </a>
                     </div>
                 </div>
 
@@ -136,7 +136,7 @@ $page_head = ucwords($page_head);
                         <p>
                             Designing a home in Mumbai is an exciting journey filled with possibilities, but it also requires careful planning to navigate the city's unique challenges and opportunities.                            
                         </p>
-                        <a href="blog-post-5.php" class="btn"> Continue Reading </a>
+                        <a href="blog-post-5" class="btn"> Continue Reading </a>
                     </div>
                 </div>
 
