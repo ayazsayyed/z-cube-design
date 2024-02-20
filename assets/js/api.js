@@ -5,6 +5,8 @@ $(document).ready(function () {
   $('.featured-projects').slick({
     infinite: true,
     slidesToShow: 4,
+    autoplay: true,
+    autoplaySpeed: 2000,
     slidesToScroll: 1,
     arrows: false,
     dost: true,
@@ -37,6 +39,8 @@ $(document).ready(function () {
   $('.our-clients').slick({
     infinite: true,
     slidesToShow: 5,
+    autoplay: true,
+    autoplaySpeed: 2000,
     slidesToScroll: 1,
     arrows: false,
     dost: true,
@@ -75,6 +79,8 @@ $(document).ready(function () {
   $('.our-clients-p').slick({
     infinite: true,
     slidesToShow: 4,
+    autoplay: true,
+    autoplaySpeed: 2000,
     slidesToScroll: 1,
     arrows: false,
     dost: true,
