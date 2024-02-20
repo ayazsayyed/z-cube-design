@@ -23,9 +23,7 @@
     <link href="https://cdn.usebootstrap.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
 	<link href="build/css/theme.min.css" rel="stylesheet" />
     <link href="build/css/style.min.css?v=1.1" rel="stylesheet" />
-	<link href="build/css/stylenew.min.css?v=1.1" rel="stylesheet" />
-
-
+	<link href="build/css/stylenew.min.css?v=1.1" rel="stylesheet" /> 
 </head>
 
 <body id="page-top"> 
@@ -92,8 +90,8 @@
 		</ul>
 		<div class="menu-footer right-boxed">
 			<div class="social-list">
-				<a class="icon ion-social-facebook" target="_blank" href="https://www.facebook.com/conceptanddesign.co" aria-label="facebook"> </a>
-				<a class="icon ion-social-instagram" target="_blank" href="https://www.instagram.com/zcubedesignpvtltd" aria-label="instagram"> </a>
+				<a class="" target="_blank" href="https://www.facebook.com/conceptanddesign.co" aria-label="facebook"> <i class="fa fa-facebook" aria-hidden="true"></i> </a>
+				<a class="" target="_blank" href="https://www.instagram.com/zcubedesignpvtltd" aria-label="instagram"> <i class="fa fa-instagram" aria-hidden="true"></i> </a>
 			</div>
 			<div class="copy"> &copy; <?php echo date("Y"); ?> ZCube Design. All Rights Reserved </div>
 		</div>

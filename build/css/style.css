@@ -802,6 +802,18 @@ strong {
 #about {
   padding-top: 0px;
   position: relative;
+  box-shadow: none;
+}
+
+#about:after {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: 20px;
+  width: 100px;
+  height: 300px;
+  background: url(../img/bg-dots.png) 0 0 repeat;
+  z-index: 0;
 }
 
 #about .about_img img {

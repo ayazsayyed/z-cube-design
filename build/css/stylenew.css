@@ -151,6 +151,21 @@ figure {
   margin-left: 5px;
 }
 
+.your-dream a.btn {
+  position: relative;
+}
+
+.your-dream a.btn span {
+  font-weight: 400;
+  transition: all 0.5s;
+  position: absolute;
+  right: 18px;
+}
+
+.your-dream a.btn:hover span {
+  right: 14px;
+}
+
 /*----------- about us css -------------*/
 #about .about_text {
   padding-left: 0;

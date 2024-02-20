@@ -65,23 +65,21 @@
  
 	</body>
 </html>
-	<script src="assets/js/jquery-1.11.0.js"></script>
+	<!-- <script src="assets/js/jquery-1.11.0.js"></script> -->
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 	<!-- Slider Section Start -->
 	<script src="assets/js/banner/jquery.themepunch.tools.min.js"></script>
 	<script src="assets/js/banner/jquery.themepunch.revolution.min.js"></script>
 	<script src="assets/js/banner/revolution.extension.slideanims.min.js"></script>
 	<script src="assets/js/banner/revolution.extension.parallax.min.js"></script>
 	<script src="assets/js/banner/theme.js"></script>
-	<script type="text/javascript" src="assets/js/slick.min.js"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 	<script src="https://cdn.usebootstrap.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	<script src="assets/js/tabs.js"></script>
 	<script src="assets/js/vanilla-tabs.min.js"></script>
 	<script src="assets/js/api.js"></script>
 	<script src="assets/js/custom.js"></script>
-
-	<!-- FancyBox -->
-	<script src="assets/js/jquery.fancybox.min.js"></script>  
-
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 	<script>
 		// create horizontal tabs
 		new VanillaTabs({

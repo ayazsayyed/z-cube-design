@@ -41,10 +41,9 @@ $page_head = ucwords($page_head);
 	</section>
 
 	<section id="about" class="cut-sec-1">
-		<div class="dots"></div>
 		<div class="container">
 			<div class="row align-items-center">
-				<div class="col-12 col-lg-6" data-scrollreveal="enter left over 1.5s">
+				<div class="col-12 col-lg-6">
 					<div class="content about_text">
 						<h5 class="sub_title orange"> WHO WE ARE </h5>
 						<h1> We Are Expert In Space Utilisation.  </h1>
@@ -77,7 +76,7 @@ $page_head = ucwords($page_head);
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-4" data-scrollreveal="enter bottom over 1.5s">
 					<div class="service-wrap">
-						<div class="icon"> <img src="build/img/icon/price.png" class="img-fluid d-block" alt="Exclusive Design" /> </div>
+						<div class="icon"> <img src="build/img/icon/design.png" class="img-fluid d-block" alt="Exclusive Design" /> </div>
 						<div class="content">
 							<h4>Exclusive Design </h4>
 							<p>Crafting exclusive interiors tailored to your distinct vision and lifestyle.</p>
@@ -86,7 +85,7 @@ $page_head = ucwords($page_head);
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-4" data-scrollreveal="enter bottom over 1.5s">
 					<div class="service-wrap">
-						<div class="icon"> <img src="build/img/icon/price.png" class="img-fluid d-block" alt="Professional Team" /> </div>
+						<div class="icon"> <img src="build/img/icon/team.png" class="img-fluid d-block" alt="Professional Team" /> </div>
 						<div class="content">
 							<h4>Professional Team </h4>
 							<p>Our skilled team ensures impeccable design and execution for every project.</p>
@@ -465,8 +464,7 @@ $page_head = ucwords($page_head);
 		</div>
 	</section>
 		
-	<section id="about">
-		<div class="dots"></div>
+	<section class="your-dream">
 		<div class="container">
 			<div class="row justify-content-md-center">
 				<div class="col-12 col-lg-8 text-center" data-scrollreveal="enter left over 1.5s">

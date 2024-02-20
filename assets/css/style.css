@@ -334,7 +334,9 @@ a:hover,a:focus { text-decoration:none; outline:0;  }
 
 .sub_title { font-family:"Heebo"; text-transform:uppercase;  font-weight:500; font-size:16px; margin-bottom:0px; }
 
-#about {padding-top:0px;position:relative;}#about .about_img img {border-radius: 5px;border: 5px solid #f5f5f5;box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;}#about .about_text {padding-left:60px;z-index:90;}#about .sub_title {margin-top:50px;}#about a{position: relative;padding-left: 40px;padding-right: 40px;}#about a span{font-weight: 400;transition: all 0.5s;position: absolute;right: 18px;}#about a:hover span{right: 14px;}.about_img {position:absolute;right:0px;padding-right:0px;}
+#about {padding-top:0px;position:relative;box-shadow: none;}
+#about:after{content:""; position: absolute;left: -1px;top: 20px;width: 100px;height: 300px;background: url(../img/bg-dots.png) 0 0 repeat;z-index: 0;}
+#about .about_img img {border-radius: 5px;border: 5px solid #f5f5f5;box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;}#about .about_text {padding-left:60px;z-index:90;}#about .sub_title {margin-top:50px;}#about a{position: relative;padding-left: 40px;padding-right: 40px;}#about a span{font-weight: 400;transition: all 0.5s;position: absolute;right: 18px;}#about a:hover span{right: 14px;}.about_img {position:absolute;right:0px;padding-right:0px;}
 
 .dots { position: absolute; left:-1px; top:20px; width:100px; height:300px; background: url(../img/bg-dots.png) 0 0 repeat;z-index: 0;}
 
