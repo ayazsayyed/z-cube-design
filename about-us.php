@@ -23,7 +23,7 @@ $page_head = ucwords($page_head);
     
 	<?php include('header.php');?>
 
-	<div class="inner_banner" style="background:url(img/innerbanner/about.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/about.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
@@ -32,7 +32,7 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-		<img src="img/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
+		<img src="build/img/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
 	</div>
 
 	<div id="breadcrumb">

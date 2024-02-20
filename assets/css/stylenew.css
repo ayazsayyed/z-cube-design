@@ -126,6 +126,30 @@ figure{
     transition: all 0.5s;
 }
 
+.featured-projects .slick-track{
+    display: flex !important;
+}
+
+.featured-projects .slick-slide{
+    height: inherit !important;
+}
+
+.projects_item {
+    height: 100%;
+}
+
+.projects_item img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.slick-slide {
+    margin-right:5px;
+    margin-left:5px;
+}
+
+
 /*----------- about us css -------------*/
 #about .about_text{
     padding-left: 0;
@@ -462,7 +486,13 @@ ul.contact-us li a:hover{
     text-align: center;
 }
 
-.our-client .owl-item .item .mobile-v{
+.our-client .owl-item .item .desk-v{
+   display: flex;
+   justify-content: center;
+   align-content: center;
+}
+
+.our-client .owl-item .item .mob-v{
     display: none;
 }
 
@@ -478,6 +508,13 @@ ul.contact-us li a:hover{
 
 .our-client .owl-item a{
     display: inline-block;
+}
+
+.our-clients-p .itam-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -1628,6 +1665,8 @@ ul.contact-us li a:hover{
 }
 
 
+
+
 /*------------------------- footer --------------------------*/
 .social-m {
     display: flex;
@@ -1884,6 +1923,10 @@ ul.contact-us li a:hover{
         padding-bottom: 0;
     }
 
+    #how_we_work .col-lg-3 h3{
+        font-size: 31px;
+    }
+
     /*----------- projectsectoin css ----------*/
     .projects .entry-title{
         max-width: 100%;
@@ -2128,6 +2171,24 @@ ul.contact-us li a:hover{
  
     #how_we_work .col-lg-3:nth-last-child(1){
         margin-bottom: 0;
+    }
+
+    .projects_item .hover .project_text{
+        left: 0;
+        bottom: 15px;
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .projects_item:hover .hover .project_text h5{
+        line-height: 1;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .projects_item .hover .project_text h4{
+        line-height: 1;
+        font-size: 22px;
     }
 
     /*----------- about sectoin css ----------*/
@@ -2508,6 +2569,10 @@ ul.contact-us li a:hover{
 
 @media (max-width:840px) {
 
+    .our-blog.home .cust-blog-img{
+        height: auto;
+    }
+
     /*----------- team page css ----------*/
     .card-details{
         grid-template-columns: repeat(2,minmax(0,1fr));
@@ -2706,11 +2771,24 @@ ul.contact-us li a:hover{
     }
 
     /*------------- home page css ------------------*/
-    .owl-carousel .owl-wrapper-outer .owl-item .item .mob-v{
-        display: block;
+
+    .our-client {
+        padding-top: 0;
     }
-    .owl-carousel .owl-wrapper-outer .owl-item .item .desk-v{
+
+    .our-client .owl-item .item .mob-v{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .our-client .owl-item .item .desk-v{
         display: none;
+    }
+
+    .our-blog.home .blog-col-wrap {
+        grid-template-columns: repeat(1,minmax(0,1fr));
     }
 
     /*------------- testimonial page css -----------*/
@@ -2971,6 +3049,10 @@ ul.contact-us li a:hover{
 
     .tp-resizeme h1 {
         font-size: 32px !important;
+    }
+
+    .projects_item .hover .project_text h4{
+        font-size: 20px;
     }
 
     /*---------------- team page css -----------------------*/
