@@ -56,7 +56,7 @@
 				<div class="col-12 col-md-12 col-lg-6">
 					<p>© <?php echo date("Y"); ?> Z CUBE DESIGN. ALL RIGHTS RESERVED. </p>
 				</div>
-				<div class="col-12 col-md-12 col-lg-6 text-lg-right">
+				<div class="col-12 col-md-12 col-lg-6 text-lg-right d-none">
 					<p>Developed by <a href="https://www.t-fusion.tech/" target="_blank" title="T-Fusion Technologies" aria-label="T-fusion">T-Fusion.tech</a></p>
 				</div>
 			</div>
