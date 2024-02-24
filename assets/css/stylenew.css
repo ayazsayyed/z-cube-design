@@ -13,20 +13,6 @@ figure{
     transition: all 0.5s;
 }
 
-/*-------- font -------------*/
-
-@font-face {
-    font-family: 'GT Super Display';
-    src: url('../../fonts/GTSuperDisplay-Bold.eot');
-    src: url('../../fonts/GTSuperDisplay-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../../fonts/GTSuperDisplay-Bold.woff2') format('woff2'),
-        url('../../fonts/GTSuperDisplay-Bold.woff') format('woff'),
-        url('../../fonts/GTSuperDisplay-Bold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
 /*----------------------------------*/
 .header_menu_area .navbar.navbar-expand-lg .nav.navbar-nav li a{
     text-transform: capitalize;
@@ -39,6 +25,13 @@ figure{
 .header_menu_area .contact-us a:nth-child(1){
     padding-left: 0;
 }
+
+.full_header .float-right .bar_menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /*---------------------------------*/
 
