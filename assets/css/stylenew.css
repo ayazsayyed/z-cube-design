@@ -445,7 +445,11 @@ ul.contact-us li span{
 }
 
 ul.contact-us li a:hover{
-    color: #e7b161;
+    color: #f16638;
+}
+
+footer a:hover{
+    color: #f16638;
 }
 
 .site-footer__columns__column__inner a{
@@ -487,6 +491,10 @@ ul.contact-us li a:hover{
 }
 .contact_content p{
     padding-left: 0;
+}
+
+.contact-content{
+    padding-left: 5%;
 }
 
 
@@ -1628,6 +1636,319 @@ ul.contact-us li a:hover{
 }
 
 
+<<<<<<< Updated upstream
+=======
+.careers .entry-title{
+    padding: 0;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.careers .entry-title p{
+    margin: 0;
+}
+
+.why-chose-us {
+    padding-top: 0;
+}
+
+.why-chose-us .entry-title{
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+.why-chose-us .content {
+    text-align: center;
+}
+
+
+.why-chose-us .content h5{
+    font-family: Heebo;
+}
+
+.why-chose-us .content p{
+    line-height: 1.4;
+    margin-bottom: 0;
+}
+
+.apply-form .entry-title{
+    padding-top: 0;
+}
+
+.apply-form .entry-title h5{
+    line-height: 1.5;
+}
+
+.apply-form .row{
+    justify-content: center;
+}
+
+.apply-form form{
+    width: 100%;
+    border-radius: 8px;
+    margin: 0 auto;
+    padding: 30px 15px;
+    box-shadow: 0 0 50px 0 rgba(130,128,128,.25);
+    transition: all 0.5s;
+}
+
+.apply-form form .form-group label{
+    display: none;
+}
+
+.apply-form form .form-group .form-control {
+    border-bottom: 1px solid #ddd;
+    color: #666;
+}
+
+.apply-form form select{
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 400;
+    color: #666;
+    height: 50px;
+    border: 0;
+    border-bottom: 1px solid #ddd;
+    font-family: Heebo;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+.apply-form form select:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.apply-form form .submite{
+    width: 150px;
+    float: left;
+}
+
+.current-opening {
+    padding-bottom: 0;
+}
+
+.current-opening .entry-title{
+    padding-top: 0;
+}
+
+.current-opening .opening-wrap{
+    width: 100%;
+}
+
+.current-opening .opening-wrap .card .card-header{
+    background-color: transparent;
+    padding: 0;
+    border-bottom: 0;
+}
+
+.current-opening .opening-wrap .card .card-header button{
+    font-size: 18px;
+    font-weight: 600;
+    color: #414141;
+    padding: 20px 30px 20px 20px;
+    line-height: 1;
+    position: relative;
+}
+
+.current-opening .opening-wrap .card .card-header button span{
+    position: absolute;
+    right: 10px;
+    top: 19px;
+    transition: all 0.5s;
+}
+
+.current-opening .opening-wrap .card .card-header button.collapsed span{
+    transform: rotate(180deg);
+    transition: all 0.5s;
+}
+
+.current-opening .opening-wrap .card .card-header button:hover{
+    text-decoration: none;
+    color: #414141;
+}
+
+.current-opening .opening-wrap .card .card-header button:focus{
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.current-opening .opening-wrap .card .card-header button:focus-visible{
+    outline: none;
+    box-shadow: none;
+}
+
+.current-opening .opening-wrap .card{
+    border-top: 1px solid #414141 !important;
+    border-radius: 0px !important;
+}
+
+.current-opening .opening-wrap{
+    border-top: 0;
+}
+
+.current-opening .list-job-detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #0000003d;
+    padding: 8px 0;
+}
+
+.current-opening .list-job-detail:nth-last-child(1){
+    border-bottom: 0;
+}
+
+.current-opening .list-job-detail h5, .current-opening .list-job-detail a{
+    font-family: Heebo;
+    font-size: 15px;
+    margin: 0;
+    padding-right:5px;
+}
+
+.current-opening .list-job-detail a{
+    font-weight: 600;
+    font-size: 16px;
+    transition: all 0.5s;
+    color: #414141;
+}
+
+.current-opening .list-job-detail a i{
+    font-size: 12px;
+}
+
+.current-opening .list-job-detail a:hover{
+    color: #f16638; 
+}
+
+/* apply now page  */
+
+.apply-for-job .wrap .page-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.apply-for-job .wrap .page-title h1{
+    margin: 0;
+    line-height: 1;
+}
+
+.apply-for-job a.btn.apply-now{
+    background: #f16638;
+    color: #ffffff;
+    border-radius: 0;
+}
+
+.apply-for-job .wrap .exp-social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.apply-for-job .wrap .exp-social ul{
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.apply-for-job .wrap .exp-social ul li{
+    list-style: none;
+    margin-right: 10px;
+}
+
+.apply-for-job .wrap .exp ul li {
+    position: relative;
+    margin-right: 20px;
+}
+
+.apply-for-job .wrap .exp ul li:after{
+    content: ' ';
+    position: absolute;
+    right: -10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 70%;
+    background-color: #ddd;
+}
+
+.apply-for-job .wrap .exp ul li:nth-last-child(1):after{
+    display: none;
+}
+
+.apply-for-job .wrap .social-icon ul li a {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    transition: all 0.5s;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.apply-for-job .wrap .social-icon ul li a:hover {
+    color: #f16638;
+    border-color: #f16638;
+}
+
+.apply-for-job .wrap .social-icon ul li:nth-last-child(1){
+    margin-right: 0;
+}
+
+.apply-for-job .wrap .content{
+    padding: 40px 0;
+}
+
+.apply-for-job .wrap .content h4{
+    font-family: Heebo;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+
+.apply-for-job .wrap .content ul{
+    padding-left: 25px;
+    margin-bottom: 40px;
+}
+
+.apply-for-job .wrap .content ul li{
+    color: #141414;
+    list-style: none;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.apply-for-job .wrap .content ul li:after{
+    content: " ";
+    position: absolute;
+    left: -15px;
+    top: 7px;
+    width: 5px;
+    height: 1px;
+    background-color: #141414;
+}
+
+.apply-for-job .wrap .content h5{
+    font-family: Heebo;
+}
+
+.apply-for-job .wrap .content .inner-wrap{
+    padding-left: 20px;
+}
+
+
+>>>>>>> Stashed changes
 /*------------------------- footer --------------------------*/
 .social-m {
     display: flex;
@@ -1649,7 +1970,7 @@ ul.contact-us li a:hover{
     font-size: 18px;
 }
 .social-m li a:hover{
-    color: #d19c4f;
+    color: #f16638;
 }
 
 .copyright p a{
@@ -1764,6 +2085,54 @@ ul.contact-us li a:hover{
 
 .modal-content .side-right a:hover{
     color: #333333;
+}
+
+
+#thankyou-sub .modal-content .modal-body{
+    text-align: center;
+}
+
+#thankyou-sub .modal-content .modal-body p{
+    margin-bottom: 10px;
+    line-height: 1.1;
+}
+
+#thankyou-sub .modal-content .modal-body a.btn{
+    border: 1px solid #f16638;
+    border-radius: 28px;
+    padding: 10px 15px;
+    line-height: 1;
+    margin: 0 10px;
+    min-width: 170px;
+    font-size: 14px;
+}
+
+#thankyou-sub .modal-content .modal-body .connect-with-us{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#thankyou-sub .modal-content .modal-body .lets-connect{
+    margin-bottom: 30px;
+}
+
+#thankyou-sub .modal-content .modal-body .lets-connect ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#thankyou-sub .modal-content .modal-body .lets-connect ul li {
+    list-style: none;
+    line-height: 1;
+    margin: 0 10px;
+    padding: 0;
+}
+
+#thankyou-sub .modal-content .modal-body a:hover{
+    color: #f16638;
 }
 
 /*--------------------- responise media -------------------*/
@@ -2438,6 +2807,20 @@ ul.contact-us li a:hover{
         padding-top: 0;
     }
 
+    /* career page css  */
+
+    .careers .entry-title{
+        width: 100%;
+    }
+
+    .careers .entry-title br{
+        display: none;
+    }
+    
+    .apply-form .entry-title h4 br{
+        display: none;
+    }
+
     /*---------------- footer ---------------*/
     footer{
         padding: 50px 0 0 0;
@@ -2690,6 +3073,53 @@ ul.contact-us li a:hover{
         margin-bottom:25px;
     }
 
+
+    .contact-content{
+        padding-top: 30px;
+        padding-left: 0;
+    }
+
+    /* career page css  */
+    .why-chose-us .container .col-12{
+        margin-bottom: 30px;
+    }
+    .why-chose-us .container .col-12:nth-last-child(1){
+        margin-bottom: 0;
+    }
+
+    .current-opening .list-job-detail{
+        flex-direction: column;
+        align-items: flex-start;
+        grid-gap: 20px;
+        position: relative;
+    }
+
+    .current-opening .list-job-detail .apply-now{
+        position: absolute;
+        right: 0;
+        top: 20px;
+    }
+
+    .apply-form form{
+        width: 100%;
+    }
+
+    /* modal  popup */
+
+    #thankyou-sub .modal-content .modal-body img{
+        width: 200px;
+    }
+
+    #thankyou-sub .modal-content .modal-body .connect-with-us{
+        margin-bottom: 10px;
+    }
+
+    #thankyou-sub .modal-content .modal-body a.btn{
+        margin: 0;
+        margin-bottom: 10px;
+        width: 95%;
+    }
+
 }
 
 @media (max-width: 576px) {
@@ -2889,6 +3319,17 @@ ul.contact-us li a:hover{
         margin-bottom: 8px;
     }
 
+    /* career page  */
+    .current-opening .entry-title p br {
+        display: none;
+    }
+ 
+    /* apply now page css */
+    .apply-for-job .wrap .page-title a.btn {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
 }
 
 @media (max-width: 520px) {
@@ -3081,6 +3522,45 @@ ul.contact-us li a:hover{
         row-gap: 35px;
     }
 
+    /* apply-now page  */
+
+    .apply-for-job .wrap .content ul{
+        padding-left: 20px;
+    }
+
+    .apply-for-job .wrap .page-title, .apply-for-job .wrap .exp-social{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .apply-for-job .wrap .page-title h1{
+        margin-bottom: 20px;
+    }
+
+    .apply-for-job .wrap .page-title a.btn{
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+
+    .apply-for-job .wrap .exp-social .exp{
+        margin-bottom: 10px;
+    }
+
+    .apply-for-job .wrap .social-icon ul li a{
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+    }
+
+    /* career page css  */
+    .apply-for-job .wrap .content .inner-wrap{
+        padding-left: 10px;
+    }
+
+    .apply-for-job .wrap .content h5{
+        font-size: 17px;
+    }
+
     /*-------------------------*/
 
     .modal-xl {
@@ -3228,6 +3708,12 @@ ul.contact-us li a:hover{
         height: 225px;
     }
     
+
+    /* career css page  */
+    .current-opening .list-job-detail .apply-now a{
+        font-size: 0;
+        transition: all 0s
+    }
     
 
 }

@@ -53,6 +53,7 @@ $page_head = ucwords($page_head);
 	<section id="contact_page">
 		<div class="controls-switch"></div>		
 		<div class="container">
+
 			<div class="row">
 				<div class="col-md-12" data-scrollreveal="enter top over 1.5s">
 					<h4> Contact Us </h4>
@@ -60,15 +61,17 @@ $page_head = ucwords($page_head);
 					<br />
 				</div>
 			</div>
+
 			<div class="row contact_content">
 				<!-- <div class="col-12  mb-70">
 					
 				</div> -->
-				<div class="col-md-5 col-sm-5 contact_form" data-scrollreveal="enter left over 1.5s">
+
+				<div class="col-12 col-md-6 contact_form" data-scrollreveal="enter left over 1.5s">
 					<?php include('quick_inquiry.php');?>
 				</div>
-				<div class="col-md-1 col-sm-1"></div>
-				<div class="col-md-6 col-sm-6" data-scrollreveal="enter right over 1.5s">
+
+				<div class="col-12 col-md-6 contact-content" data-scrollreveal="enter right over 1.5s">
 					<h4 class="col-md-12"> Get In Touch </h4>
 					<p class="col-md-12 text-justify"> Please fill out the information below. Alternatively, you may call or send us an email using our contact details. <br />
 					Asterisks (*) indicate fields to complete this transaction. </p>
@@ -80,14 +83,50 @@ $page_head = ucwords($page_head);
 					  	<strong> Contact :</strong> <a href="tel:02248251313" class="golden"> 022 - 48251313 </a> /<a href="tel:02246172323" class="golden"> 46172323 </a> 
 					</p>
 				</div>
+
 			</div> <!-- Row -->
+
 		</div> <!-- Container -->		
 	</section> <!--  -->
 
 	<section class="location-map p-0">
 		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3769.7162971308317!2d72.827491!3d19.120098!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9250c21b0dbf2ce0!2sZ%20Cube%20Design%20Private%20Limited!5e0!3m2!1sen!2sin!4v1662489006325!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-	</section>
-	
+	</section>	
+
+		<!-- Modal -->
+<div class="modal fade" id="thankyou-sub" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+		<img src="assets/images/thankyou-page/robo-img.png" alt="">
+		<div class="content">
+			<h2>Thank you for contacting us!</h2>
+			<p>Our representative will get back to you shortly.</p>
+
+			<div class="connect-with-us">
+				<a href="https://zcubedesign.com/" class="btn"> Back to Homepage</a>
+				<a href="https://zcubedesign.com/blog" class="btn"> Visit the Blog</a>
+			</div>
+
+			<div class="lets-connect">
+				<p>Let's connect!</p>
+				<ul>
+					<li><a href="https://www.facebook.com/conceptanddesign.co" target="_blank" class="facebook" aria-label="facebook"> <i class="fa fa-facebook" aria-hidden="true"></i> </a></li>
+					<li><a href="https://www.instagram.com/zcubedesignpvtltd" target="_blank" class="instagram" aria-label="instagram"> <i class="fa fa-instagram" aria-hidden="true"></i> </a></li>
+				</ul>
+			</div>
+		</div>
+      </div> 
+    </div>
+  </div>
+</div>
+
+
 	
 <?php include('footer.php');?>
  

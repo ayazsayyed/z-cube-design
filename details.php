@@ -7,6 +7,9 @@ $page_head = $page;
 $page_head = str_replace('_',' ',$page_head);
 $page_head =str_replace('.php','',$page_head);
 $page_head = ucwords($page_head);
+
+// echo($page);
+echo($page_head);
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
@@ -32,6 +35,7 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
+<<<<<<< Updated upstream
 		<img src="img/innerbanner/contact.jpg" class="img-fluid" />
 	</div>
 	<div id="breadcrumb">
@@ -47,6 +51,10 @@ $page_head = ucwords($page_head);
 		</div>
 	</div>
  
+=======
+		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" />
+	</div> 
+>>>>>>> Stashed changes
 	<section id="projects" class="">	
 		<div class="container">
 			<div class="row">
