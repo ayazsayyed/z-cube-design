@@ -1,4 +1,4 @@
-<?php include('mailer.php');?>
+<?php include('new_mailer.php');?>
 <?php
 $page = basename($_SERVER['SCRIPT_NAME']);
 $page = str_replace('','',$page);
@@ -126,7 +126,12 @@ $page_head = ucwords($page_head);
   </div>
 </div>
 
-
 	
+	<script>
+		function onSubmit(token) {
+			document.getElementById("contactform").submit();
+		}
+	</script>
+	<script src="https://www.google.com/recaptcha/api.js"></script>
 <?php include('footer.php');?>
  

@@ -3,11 +3,13 @@ $nameErr = $companyErr = $contactErr = $emailErr = $messageErr = $captchaErr = "
 $name = $company = $contact = $email = $message = $captcha = "";
 $emailSent = false;
 //If the form is submitted
+
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
 	
 	if (empty($_POST["name"])) {
 		$nameErr = "* Name is required";
 		$hasError = true;
+		
 	} else {
 		$name = test_input($_POST["name"]);
 		// check if name only contains letters and whitespace
@@ -17,17 +19,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 		}
 	}
 	
-	if (empty($_POST["company"])) {
-		$companyErr = "* Company Name is required";
-		$hasError = true;
-	} else {
-		$name = test_input($_POST["company"]);
-		// check if name only contains letters and whitespace
-		if (!preg_match("/^[a-zA-Z ]*$/", $company)) {
-			$companyErr = "* Only letters and white space allowed";
-			$hasError = true;			
-		}
-	}
+	// if (empty($_POST["company"])) {
+	// 	$companyErr = "* Company Name is required";
+	// 	$hasError = true;
+	// } else {
+	// 	$name = test_input($_POST["company"]);
+	// 	// check if name only contains letters and whitespace
+	// 	if (!preg_match("/^[a-zA-Z ]*$/", $company)) {
+	// 		$companyErr = "* Only letters and white space allowed";
+	// 		$hasError = true;			
+	// 	}
+	// }
 	
 	if (empty($_POST["email"])) {
 		$emailErr = "* Email is required";
@@ -57,9 +59,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 	} else {
 		$message = test_input($_POST["message"]);
 	}
-	
+	// echo($nameErr);echo($companyErr);echo($contactErr);echo($emailErr);echo($messageErr);echo($captchaErr);echo($name);echo($company);echo($contact);echo($email);echo($message);echo($captcha);
+	echo($hasError);
 	if(!isset($hasError)) {
-		$emailTo = 'info@avajet.in' ; // note the comma
+		
+		$emailTo = 'ayaz.sayyed94@gmail.com' ; // note the comma
 		$body = '<html><body>';
 		$body .= '<table rules="all" style="font-family: "Open Sans"; cellpadding="10">';
 		$body .= "<tr><td><strong>Name</strong> </td><td><strong>:</strong> </td><td>" . $name . "</td></tr>";
@@ -72,9 +76,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 		//echo $body;exit;
 		$headers = "MIME-Version: 1.0" . "\r\n";
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-		$headers .= 'From: Avajet <info@avajet.in>' . "\r\n";
-		$headers .= 'bcc: sanaullah7867@gmail.com' . "\r\n";
-		$subject = "Avajet Enquiry";
+		$headers .= 'From: website <ayaz.sayyed94@gmail.comn>' . "\r\n";
+		$headers .= 'bcc: ayaz.sayyed94@gmail.com' . "\r\n";
+		$subject = "Webiste Enquiry";
 		if(mail($emailTo, $subject, $body, $headers)) {
 			$emailSent = true;
 			header('location:thankyou.php');

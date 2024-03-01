@@ -63,10 +63,8 @@
 		</div>
 	</footer>
  
-	</body>
-</html>
-	<!-- <script src="assets/js/jquery-1.11.0.js"></script> -->
-	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<!-- <script src="assets/js/jquery-1.11.0.js"></script> -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 	<!-- Slider Section Start -->
 	<script src="assets/js/banner/jquery.themepunch.tools.min.js"></script>
 	<script src="assets/js/banner/jquery.themepunch.revolution.min.js"></script>
@@ -80,12 +78,87 @@
 	<script src="assets/js/api.js"></script>
 	<script src="assets/js/custom.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-	<script>
-		// create horizontal tabs
-		new VanillaTabs({
-			'selector': '#tabs-h',	// default is ".tabs"
-			'type': 'horizontal', 	// can be horizontal / vertical / accordion
-			'responsiveBreak': 991,	// tabs become accordion on this device width
-			'activeIndex' : 0				// active tab index (starts from 0 ). Can be -1 for accordions.
-		});
-	</script>
+<script>
+	// create horizontal tabs
+	new VanillaTabs({
+		'selector': '#tabs-h',	// default is ".tabs"
+		'type': 'horizontal', 	// can be horizontal / vertical / accordion
+		'responsiveBreak': 991,	// tabs become accordion on this device width
+		'activeIndex' : 0				// active tab index (starts from 0 ). Can be -1 for accordions.
+	});
+
+	// Carousel
+	$('.carousel').carousel({
+		interval: 10000, //changes the speed
+		pause: "false"
+	})
+
+	$(document).ready(function () {
+    // Function to validate email format
+    function validateEmail(email) {
+      var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      return emailRegex.test(email);
+    }
+    function validateForm() {
+      var isValid = true;
+	  $(".form-group" ).removeClass('cust-error');
+      $('.error-message').text('');
+      var name = $('#name').val().trim();
+      if (name === '') {
+        $('#nameErr').text('Name is required');
+		$('#name').closest(".form-group").addClass('cust-error')
+        isValid = false;
+      }
+      var contact = $('#contact').val().trim();
+      if (contact === '') {
+        $('#contactErr').text('Contact is required');
+		$('#contact').closest(".form-group").addClass('cust-error')
+        isValid = false;
+      }
+      var email = $('#email').val().trim();
+      if (email === '') {
+        $('#emailErr').text('Email is required');
+		$('#email').closest(".form-group").addClass('cust-error')
+        isValid = false;
+      } else if (!validateEmail(email)) {
+        $('#emailErr').text('Invalid email format');
+        isValid = false;
+      }
+      var message = $('#message').val().trim();
+      if (message === '') {
+        $('#messageErr').text('Message is required');
+		$('#message').closest(".form-group").addClass('cust-error')
+        isValid = false;
+      }
+	  if(isValid){
+		$('#contactform button span').addClass('spinner-border');
+	  }
+      return isValid;
+    }
+	$('#name, #contact, #email, #message').keyup(function () {
+      var fieldName = $(this).attr('id');
+      $('#' + fieldName + 'Err').text('');
+	  $('#' + fieldName + 'Err').closest(".form-group").removeClass('cust-error')
+    });
+    $('#contactform').submit(function () {
+		
+      return validateForm();
+    });
+
+	var emailSent = "<?php echo $emailSent; ?>";
+
+            // Check if the success message is present, then reset form fields
+            if (emailSent) {
+                var form = document.querySelector('form');
+                if (form) {
+                    form.reset();
+                }
+				$('#contactform button span').removeClass('spinner-border');
+            }
+  });
+</script>
+
+	</body>
+</html>
+
+
