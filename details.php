@@ -26,7 +26,7 @@ echo($page_head);
 	<?php include('header.php');?>
 </head>
 <body>
-	<div class="inner_banner" style="background:url(img/innerbanner/contact.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/contact.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">

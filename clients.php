@@ -25,7 +25,7 @@ $page_head = ucwords($page_head);
 
 </head>
 <body>
-	<div class="inner_banner" style="background:url(img/innerbanner/contact.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/contact.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
@@ -34,7 +34,7 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-		<img src="img/innerbanner/contact.jpg" class="img-fluid" alt="banner image" />
+		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" alt="banner image" />
 	</div>
 
 	<div id="breadcrumb">
@@ -63,39 +63,39 @@ $page_head = ucwords($page_head);
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-8.png" alt="asianpaint"></figure>
+							<img src="./assets/images/client-logo/logo-8.webp" alt="asianpaint"></figure>
 					</div>
 				</div>
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-57.png" alt="relaince industries limited"></figure>
+							<img src="./assets/images/client-logo/logo-57.webp" alt="relaince industries limited"></figure>
 					</div>
 				</div>
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-1.png" alt="sabyasachi logo"></figure>
+							<img src="./assets/images/client-logo/logo-1.webp" alt="sabyasachi logo"></figure>
 					</div>
 				</div>
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-2.png" alt="manish malhotra"></figure>
-					</div>
-				</div>
-
-				<div class="col-6 col-md-4 col-lg-4">
-					<div class="f-client">
-						<figure>
-							<img src="./assets/images/client-logo/logo-58.png" alt="dr agarwal eye hospital"></figure>
+							<img src="./assets/images/client-logo/logo-2.webp" alt="manish malhotra"></figure>
 					</div>
 				</div>
 
 				<div class="col-6 col-md-4 col-lg-4">
 					<div class="f-client">
 						<figure>
-							<img src="./assets/images/client-logo/logo-6.png" alt="asian paint "></figure>
+							<img src="./assets/images/client-logo/logo-58.webp" alt="dr agarwal eye hospital"></figure>
+					</div>
+				</div>
+
+				<div class="col-6 col-md-4 col-lg-4">
+					<div class="f-client">
+						<figure>
+							<img src="./assets/images/client-logo/logo-6.webp" alt="asian paint "></figure>
 					</div>
 				</div>
 
@@ -117,35 +117,24 @@ $page_head = ucwords($page_head);
 				</div>
 
 				<div class="col-12 col-lg-8">
-					<div id="our-client-slide" class="owl-carousel owl-theme">
+					<div class="owl-carousel owl-theme our-clients-p slick-slider">
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-1.png" alt="sabyasachi logo">
+									<img src="./assets/images/client-logo/logo-1.webp" alt="sabyasachi logo">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-28.png" alt="newquest">
+									<img src="./assets/images/client-logo/logo-28.webp" alt="newquest">
 								</figure>
 							</div>
 						</div>
 						<div class="item zoom">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-2.png" alt="manish malhotra">
+									<img src="./assets/images/client-logo/logo-2.webp" alt="manish malhotra">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-29.png" alt="nielsen">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-3.png" alt="247 park">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-30.png" alt="nsw goverment">
+									<img src="./assets/images/client-logo/logo-29.webp" alt="nielsen">
 								</figure>
 							</div>
 						</div>
@@ -153,33 +142,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-4.png" alt="al amal hospital">
+									<img src="./assets/images/client-logo/logo-3.webp" alt="247 park">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-31.png" alt="panache">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-5.png" alt="annet">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-32.png" alt="prudental">
-								</figure>
-							</div>
-						</div>
-
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-6.png" alt="asianpaint">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-33.png" alt="qantas">
+									<img src="./assets/images/client-logo/logo-30.webp" alt="nsw goverment">
 								</figure>
 							</div>
 						</div>
@@ -187,21 +153,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-7.png" alt="apollo">
+									<img src="./assets/images/client-logo/logo-4.webp" alt="al amal hospital">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-34.png" alt="rakshri">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-8.png" alt="asianpaint">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-35.png" alt="rajshri">
+									<img src="./assets/images/client-logo/logo-31.webp" alt="panache">
 								</figure>
 							</div>
 						</div>
@@ -209,21 +164,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-9.png" alt="the beer cafe">
+									<img src="./assets/images/client-logo/logo-5.webp" alt="annet">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-36.png" alt="real image">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-10.png" alt="cbre">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-37.png" alt="relaince samrt">
+									<img src="./assets/images/client-logo/logo-32.webp" alt="prudental">
 								</figure>
 							</div>
 						</div>
@@ -232,31 +176,76 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-11.png" alt="chhatrapati shivaji internation airport">
+									<img src="./assets/images/client-logo/logo-6.webp" alt="asianpaint">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-38.png" alt="rbs">
+									<img src="./assets/images/client-logo/logo-33.webp" alt="qantas">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-7.webp" alt="apollo">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-34.webp" alt="rakshri">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-8.webp" alt="asianpaint">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-35.webp" alt="rajshri">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-9.webp" alt="the beer cafe">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-36.webp" alt="real image">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-10.webp" alt="cbre">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-37.webp" alt="relaince samrt">
+								</figure>
+							</div>
+						</div>
+
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-11.webp" alt="chhatrapati shivaji internation airport">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-38.webp" alt="rbs">
 								</figure>
 							</div>
 						</div>
 						<div class="item zoom">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-12.png" alt="doctor agarwal clinic">
+									<img src="./assets/images/client-logo/logo-12.webp" alt="doctor agarwal clinic">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-39.png" alt="royal bank scotland">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-13.png" alt=" deutsche Bank">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-40.png" alt="royal canin">
+									<img src="./assets/images/client-logo/logo-39.webp" alt="royal bank scotland">
 								</figure>
 							</div>
 						</div>
@@ -264,33 +253,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-14.png" alt="fortune">
+									<img src="./assets/images/client-logo/logo-13.webp" alt=" deutsche Bank">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-41.png" alt="sahara">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-15.png" alt="future group">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-42.png" alt="square yards">
-								</figure>
-							</div>
-						</div>
-
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-16.png"  alt="hh global">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-43.png" alt="sva">
+									<img src="./assets/images/client-logo/logo-40.webp" alt="royal canin">
 								</figure>
 							</div>
 						</div>
@@ -298,21 +264,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-17.png" alt="income taxt department">
+									<img src="./assets/images/client-logo/logo-14.webp" alt="fortune">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-44.png" alt="tema">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-18.png" alt="indoco">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-45.png" alt="teva">
+									<img src="./assets/images/client-logo/logo-41.webp" alt="sahara">
 								</figure>
 							</div>
 						</div>
@@ -320,10 +275,22 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-19.png" alt="indo count">
+									<img src="./assets/images/client-logo/logo-15.webp" alt="future group">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-46.png" alt="the commomwealth">
+									<img src="./assets/images/client-logo/logo-42.webp" alt="square yards">
+								</figure>
+							</div>
+						</div>
+
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-16.webp"  alt="hh global">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-43.webp" alt="sva">
 								</figure>
 							</div>
 						</div>
@@ -331,10 +298,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-20.png" alt="jcb">
+									<img src="./assets/images/client-logo/logo-17.webp" alt="income taxt department">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-47.png" alt="the spara kitchen">
+									<img src="./assets/images/client-logo/logo-44.webp" alt="tema">
 								</figure>
 							</div>
 						</div>
@@ -342,31 +309,53 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-21.png" alt="lion international">
+									<img src="./assets/images/client-logo/logo-18.webp" alt="indoco">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-48.png" alt="log">
+									<img src="./assets/images/client-logo/logo-45.webp" alt="teva">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-19.webp" alt="indo count">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-46.webp" alt="the commomwealth">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-20.webp" alt="jcb">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-47.webp" alt="the spara kitchen">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-21.webp" alt="lion international">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-48.webp" alt="log">
 								</figure>
 							</div>
 						</div>
 						<div class="item zoom">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-22.png" alt="lupi">
+									<img src="./assets/images/client-logo/logo-22.webp" alt="lupi">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-49.png" alt="opulentus">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-23.png" alt="mccann worldgroup">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-50.png" alt="tourism australia">
+									<img src="./assets/images/client-logo/logo-49.webp" alt="opulentus">
 								</figure>
 							</div>
 						</div>
@@ -374,33 +363,10 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-24.png" alt="megha property">
+									<img src="./assets/images/client-logo/logo-23.webp" alt="mccann worldgroup">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-51.png" alt="victoria">
-								</figure>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-25.png" alt="metro shoes">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-52.png" alt="walsone">
-								</figure>
-							</div>
-						</div>
-
-
-						<div class="item">
-							<div class="itam-wrap">
-								<figure>
-									<img src="./assets/images/client-logo/logo-26.png" alt="moneygram">
-								</figure>
-								<figure>
-									<img src="./assets/images/client-logo/logo-53.png" alt="wework">
+									<img src="./assets/images/client-logo/logo-50.webp" alt="tourism australia">
 								</figure>
 							</div>
 						</div>
@@ -408,10 +374,44 @@ $page_head = ucwords($page_head);
 						<div class="item">
 							<div class="itam-wrap">
 								<figure>
-									<img src="./assets/images/client-logo/logo-27.png" alt="mumbai port trust">
+									<img src="./assets/images/client-logo/logo-24.webp" alt="megha property">
 								</figure>
 								<figure>
-									<img src="./assets/images/client-logo/logo-54.png" alt="wild">
+									<img src="./assets/images/client-logo/logo-51.webp" alt="victoria">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-25.webp" alt="metro shoes">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-52.webp" alt="walsone">
+								</figure>
+							</div>
+						</div>
+
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-26.webp" alt="moneygram">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-53.webp" alt="wework">
+								</figure>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="itam-wrap">
+								<figure>
+									<img src="./assets/images/client-logo/logo-27.webp" alt="mumbai port trust">
+								</figure>
+								<figure>
+									<img src="./assets/images/client-logo/logo-54.webp" alt="wild">
 								</figure>
 							</div>
 						</div>

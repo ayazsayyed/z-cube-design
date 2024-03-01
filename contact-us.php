@@ -25,7 +25,7 @@ $page_head = ucwords($page_head);
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 <body>
-	<div class="inner_banner" style="background:url(img/innerbanner/contact.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/contact.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
@@ -34,7 +34,7 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-		<img src="img/innerbanner/contact.jpg" class="img-fluid" alt="contact us background"/>
+		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" alt="contact us background"/>
 	</div>
 
 	<div id="breadcrumb">

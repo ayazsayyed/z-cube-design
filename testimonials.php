@@ -26,7 +26,7 @@ $page_head = ucwords($page_head);
 </head>
 <body>
 
-	<div class="inner_banner" style="background:url(img/innerbanner/contact.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/contact.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
@@ -35,7 +35,7 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-		<img src="img/innerbanner/contact.jpg" class="img-fluid" />
+		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" />
 	</div>
 
 	<div id="breadcrumb">
@@ -159,26 +159,6 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-	</section>
-
-<!-- 	
-	<section class="clients_area white_cl projects_listing" id="testimonials">
-		<div class="container">
-			<div class="row justify-content-md-center">
-				<div class="col-12" data-scrollreveal="enter bottom over 1.5s">
-					<div class="main_title white text-center">
-						<h2>Our <span class="orange">clients</span></h2>
-					</div>
-					<div class="testimonials_sliderr owl-carousel text-center">
-
-						
-
-					</div>
-				</div>
-			</div>			
-		</div>
-	</section>
-	 -->
-	
+	</section>	
 <?php include('footer.php');?>
  

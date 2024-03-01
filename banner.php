@@ -9,13 +9,13 @@
 							<h1> <span> Commercial </span> Deutsche Bank </h1>
 							<p class="detail">We offer design build for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics <br /> (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=Deutsche-Bank" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=Deutsche-Bank" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 						<div class="sm_text">
 							<h1> <span> Commercial </span> Deutsche Bank </h1>
 							<p class="detail">We offer design build for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=Deutsche-Bank" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=Deutsche-Bank" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 					</div>
 
@@ -34,13 +34,13 @@
 							<h1> <span> Health Care </span> DR. AEH Kolkata </h1>
 							<p class="detail">We offer turnkey service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics <br /> (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=deh-kolkata" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=deh-kolkata" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 						<div class="sm_text">
 							<h1> <span> Health Care </span> DR. AEH Kolkata </h1>
 							<p class="detail">We offer turnkey service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=deh-kolkata" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=deh-kolkata" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 					</div>
 					<!--
@@ -58,13 +58,13 @@
 							<h1> <span> Residence </span> Andheri </h1>
 							<p class="detail">We offer project management service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics <br /> (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=Andheri" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=Andheri" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 						<div class="sm_text">
 							<h1> <span> Residence </span> Andheri </h1>
 							<p class="detail">We offer project management service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=Andheri" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=Andheri" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 					</div>
 					<!--
@@ -82,13 +82,13 @@
 							<h1> <span> Resturant </span> Indus Club </h1>
 							<p class="detail">We offer project management service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics <br /> (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=indus-club" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" /> </a>
+							<a href="./details.php?work=indus-club" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" /> </a>
 						</div>
 						<div class="sm_text">
 							<h1> <span> Resturant </span> Indus Club </h1>
 							<p class="detail">We offer project management service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=indus-club" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid" /> </a>
+							<a href="./details.php?work=indus-club" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid" /> </a>
 						</div>
 					</div>
 					<!--
@@ -106,13 +106,13 @@
 							<h1> <span> Retail </span> APH Gorakhpur </h1>
 							<p class="detail">We offer turnkey service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics <br /> (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=asianpaint" class="btn btn-white"> View Project<img src="img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
+							<a href="./details.php?work=asianpaint" class="btn btn-white"> View Project<img src="build/img/icon/arrow-right.svg" class="img-fluid" alt="arrow right" /> </a>
 						</div>
 						<div class="sm_text">
 							<h1> <span> Retail </span> APH Gorakhpur </h1>
 							<p class="detail">We offer turnkey service for Fit-Outs, Customized Joinery, FF & E, Furnishing Fabrics (curtains and wallpapers including installations), lighting (indoor, outdoor and freestanding).</p>
 							
-							<a href="./details.php?work=asianpaint" class="btn btn-white"> View Project <img src="img/icon/arrow-right.svg" class="img-fluid"  alt="arrow right" /> </a>
+							<a href="./details.php?work=asianpaint" class="btn btn-white"> View Project <img src="build/img/icon/arrow-right.svg" class="img-fluid"  alt="arrow right" /> </a>
 						</div>
 					</div>
 					<!--
