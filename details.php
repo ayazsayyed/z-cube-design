@@ -35,26 +35,8 @@ echo($page_head);
 				</div>
 			</div>
 		</div>
-<<<<<<< Updated upstream
-		<img src="img/innerbanner/contact.jpg" class="img-fluid" />
-	</div>
-	<div id="breadcrumb">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<ol class="breadcrumb">
-						<li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-						<li class="breadcrumb-item"><a href="#">Projects</a></li>
-					</ol>
-				</div>
-			</div>
-		</div>
-	</div>
- 
-=======
 		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" />
 	</div> 
->>>>>>> Stashed changes
 	<section id="projects" class="">	
 		<div class="container">
 			<div class="row">
