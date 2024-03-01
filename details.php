@@ -7,6 +7,9 @@ $page_head = $page;
 $page_head = str_replace('_',' ',$page_head);
 $page_head =str_replace('.php','',$page_head);
 $page_head = ucwords($page_head);
+
+// echo($page);
+echo($page_head);
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
@@ -23,7 +26,7 @@ $page_head = ucwords($page_head);
 	<?php include('header.php');?>
 </head>
 <body>
-	<div class="inner_banner" style="background:url(img/innerbanner/contact.jpg) no-repeat">
+	<div class="inner_banner" style="background:url(build/img/innerbanner/contact.jpg) no-repeat">
 		<div class="container">		
 			<div class="row">
 				<div class="col-lg-12">
@@ -32,21 +35,8 @@ $page_head = ucwords($page_head);
 				</div>
 			</div>
 		</div>
-		<img src="img/innerbanner/contact.jpg" class="img-fluid" />
-	</div>
-	<div id="breadcrumb">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<ol class="breadcrumb">
-						<li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-						<li class="breadcrumb-item"><a href="#">Projects</a></li>
-					</ol>
-				</div>
-			</div>
-		</div>
-	</div>
- 
+		<img src="build/img/innerbanner/contact.jpg" class="img-fluid" />
+	</div> 
 	<section id="projects" class="">	
 		<div class="container">
 			<div class="row">

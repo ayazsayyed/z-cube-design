@@ -1,5 +1,255 @@
 document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?ver=20151215'></script>");
 
+$(document).ready(function () {
+
+  $('.featured-projects').slick({
+    infinite: true,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    arrows: false,
+    dost: true,
+    responsive: [
+      {
+        breakpoint: 1280,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          centerMode: true,
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.our-clients').slick({
+    infinite: true,
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    arrows: false,
+    dost: true,
+    responsive: [
+      {
+        breakpoint: 991,
+        settings: {
+          slidesToShow: 4,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 576,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 420,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.our-clients-p').slick({
+    infinite: true,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    arrows: false,
+    dost: true,
+    responsive: [
+      {
+        breakpoint: 1280,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 991,
+        settings: {
+          slidesToShow: 4,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 576,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 420,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.steps-slider').slick({
+    infinite: true,
+    slidesToShow: 4,
+    arrows: false,
+    // autoplay: true,
+    // autoplaySpeed: 2000,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 991,
+        settings: {
+          autoplay: true,
+          autoplaySpeed: 2000,
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 576,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.we-work-slider').slick({
+    infinite: true,
+    slidesToShow: 4,
+    arrows: false,
+    // autoplay: true,
+    // autoplaySpeed: 2000,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 767,
+        settings: {
+          autoplay: true,
+          autoplaySpeed: 2000,
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.product-slider').slick({
+    infinite: true,
+    slidesToShow: 4,
+    arrows: true,
+    autoplay: true,
+    autoplaySpeed: 2000,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 1200,
+        settings: {
+          slidesToShow: 3,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 991,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
+  });
+
+  $('.furniture-work-slider').slick({
+    infinite: true,
+    slidesToShow: 3,
+    arrows: false,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 767,
+        settings: {
+          slidesToShow: 2,
+          slidesToScroll: 1,
+          autoplay: true,
+          autoplaySpeed: 2000
+        }
+      }
+    ]
+  });
+
+  $('.testimonial-slidere').slick({
+      infinite: true,
+      slidesToShow: 2,
+      slidesToScroll: 2,
+      arrows: false,
+      dost: true,
+      responsive: [
+        {
+          breakpoint: 991,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1
+          }
+        }
+      ]
+  });
+
+  $('#work_tab li:first').addClass('active');
+  $('.works .row div:eq(0)').show();
+
+});
+
   // Home Page Slider
   $.ajax({
     url: "data.json", //API URL
@@ -24,10 +274,10 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
         html += `
         <div class="item">
           <div class="projects_item">
-            <img src="${thumbnail}" class="img-fluid d-block">
-            <div class="hover"><a href="details?work=${seo_url}"><i class="ion-android-arrow-forward"></i></a>
+            <img src="${thumbnail}" class="img-fluid d-block" alt="${title}">
+            <div class="hover"><a href="details?work=${seo_url}" aria-label="${title}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
               <div class="project_text">
-                <h5>${type}</h5><a href="details?work=${seo_url}"><h4><span>${title}</span></h4></a></div>
+                <h5>${type}</h5><a href="details?work=${seo_url}" aria-label="${title}"><h4><span>${title}</span></h4></a></div>
             </div>
           </div>
         </div>
@@ -39,49 +289,46 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
   		//Helper Filtering Data
       $(document).ready(function () {
 
-        var owl = $("#owlroot");
-        owl.owlCarousel({
-            autoPlay: 3000,
-            items: 4,
-            pagination: true,
-            stopOnHover: true,
-            navigation: false,
-            itemsDesktop: [1280, 4],
-            itemsDesktopSmall: [979, 3],
-            itemsTablet: [600, 3], // itemsMobile disabled - inherit from itemsTablet option		
-            responsive:{
-              480:{
-                  tems:4,
-                  loop:true,
-                  center: true,
-              }
-          }
+        // var owl = $("#owlroot");
+        // owl.owlCarousel({
+        //     autoPlay: 3000,
+        //     items: 4,
+        //     pagination: true,
+        //     stopOnHover: true,
+        //     navigation: false,
+        //     itemsDesktop: [1280, 4],
+        //     itemsDesktopSmall: [979, 3],
+        //     itemsTablet: [600, 3], // itemsMobile disabled - inherit from itemsTablet option		
+        //     responsive:{
+        //       480:{
+        //           tems:4,
+        //           loop:true,
+        //           center: true,
+        //       }
+        //   }
             
-        });
+        // });
 
         // Custom Navigation Events
-        $(".next").click(function () {
-            owl.trigger('owl.next');
-        })
+        // $(".next").click(function () {
+        //     owl.trigger('owl.next');
+        // })
         
-        $(".prev").click(function () {
-            owl.trigger('owl.prev');
-        })
+        // $(".prev").click(function () {
+        //     owl.trigger('owl.prev');
+        // })
 
-        $('#our-client-slide').owlCarousel({
-            autoPlay: 2000,
-            items: 5,
-            pagination: false,
-            stopOnHover: true,
-            navigation: false,
-            itemsDesktop: [1280, 4],
-            itemsDesktopSmall: [979, 3],
-            itemsTablet: [600, 3], //3 items between 600 and 0
-            itemsMobile: [480, 2], // itemsMobile disabled - inherit from itemsTablet option	
-        })
-
-        $('#work_tab li:first').addClass('active');
-        $('.works .row div:eq(0)').show();
+        // $('#our-client-slide').owlCarousel({
+        //     autoPlay: 2000,
+        //     items: 5,
+        //     pagination: false,
+        //     stopOnHover: true,
+        //     navigation: false,
+        //     itemsDesktop: [1280, 4],
+        //     itemsDesktopSmall: [979, 3],
+        //     itemsTablet: [600, 3], //3 items between 600 and 0
+        //     itemsMobile: [480, 2], // itemsMobile disabled - inherit from itemsTablet option	
+        // })
     }); 
 
     },
@@ -124,7 +371,7 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
         html += `
         <div class="portfolio-item col-lg-4 col-sm-4 ${type} all">
           <div class="projects_item">
-            <a href="details?work=${seo_url}"><img src="${thumbnail}" class="img-fluid d-block w-100" alt="${title}">
+            <a href="details?work=${seo_url}" aria-label="${title}"><img src="${thumbnail}" class="img-fluid d-block w-100" alt="${title}">
               <div class="hover"><i class="ion-android-arrow-forward"></i>
                 <div class="project_text">
                   <span>${sub_title}</span>
@@ -251,138 +498,3 @@ document.writeln("<script type='text/javascript' src='js/jquery.mixitup.min.js?v
       let html = `<div class="alert alert-danger">Error while fetching data</div>`;
     },
 });
-
-
-  $(document).ready(function () {
-
-    $('.steps-slider').slick({
-      infinite: true,
-      slidesToShow: 4,
-      arrows: false,
-      // autoplay: true,
-      // autoplaySpeed: 2000,
-      slidesToScroll: 1,
-      responsive: [
-        {
-          breakpoint: 991,
-          settings: {
-            autoplay: true,
-            autoplaySpeed: 2000,
-            slidesToShow: 2,
-            slidesToScroll: 1
-          }
-        },
-        {
-          breakpoint: 576,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }
-      ]
-    });
-
-    $('.we-work-slider').slick({
-      infinite: true,
-      slidesToShow: 4,
-      arrows: false,
-      // autoplay: true,
-      // autoplaySpeed: 2000,
-      slidesToScroll: 1,
-      responsive: [
-        {
-          breakpoint: 767,
-          settings: {
-            autoplay: true,
-            autoplaySpeed: 2000,
-            slidesToShow: 2,
-            slidesToScroll: 1
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }
-      ]
-    });
-
-    $('.product-slider').slick({
-      infinite: true,
-      slidesToShow: 4,
-      arrows: true,
-      autoplay: true,
-      autoplaySpeed: 2000,
-      slidesToScroll: 1,
-      responsive: [
-        {
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 3,
-            slidesToScroll: 1
-          }
-        },
-        {
-          breakpoint: 991,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }
-      ]
-    });
-
-    $('.furniture-work-slider').slick({
-      infinite: true,
-      slidesToShow: 3,
-      arrows: false,
-      slidesToScroll: 1,
-      responsive: [
-        {
-          breakpoint: 767,
-          settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1,
-            autoplay: true,
-            autoplaySpeed: 2000
-          }
-        }
-      ]
-    });
-
-    $('.testimonial-slidere').slick({
-        infinite: true,
-        slidesToShow: 2,
-        slidesToScroll: 2,
-        arrows: false,
-        dost: true,
-        responsive: [
-          {
-            breakpoint: 991,
-            settings: {
-              slidesToShow: 1,
-              slidesToScroll: 1
-            }
-          }
-        ]
-    });
-
-  });
-
-

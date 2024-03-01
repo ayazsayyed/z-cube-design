@@ -76,7 +76,7 @@
                 sliderType: "standard",
                 sliderLayout: "fullscreen",
                 dottedOverlay: "none",
-                delay: 7000,
+                delay: 2000,
                 autoHeight: 'on',
                 minHeight: 480,
                 navigation: {
@@ -141,206 +141,208 @@
     }
     photography_slider();
 
-    function full_page_slider() {
-        if ($('#full_page_slider').length) {
-            $("#full_page_slider").revolution({
-                sliderType: "standard",
-                sliderLayout: 'fullscreen',
-                dottedOverlay: "none",
-                delay: 5000,
-                autoHeight: 'off',
-                minHeight: 480,
-                navigation: {
-                    keyboardNavigation: "off",
-                    keyboard_direction: "horizontal",
-                    onHoverStop: "off",
-                    mouseScrollNavigation: "off",
-                    mouseScrollReverse: "default",
-                    touch: {
-                        touchenabled: "on",
-                        swipe_threshold: 75,
-                        swipe_min_touches: 1,
-                        swipe_direction: "horizontal",
-                        drag_block_vertical: false
-                    },
-                    bullets: {
-                        enable: false,
-                        hide_onmobile: true,
-                        direction: "vertical",
-                        h_align: "right",
-                        v_align: "center",
-                        h_offset: 80,
-                        v_offset: 0,
-                        space: 27
-                    },
-                },
-                responsiveLevels: [1920, 1199, 991, 768, 480],
-                visibilityLevels: [1920, 960, 991, 768, 480],
-                gridwidth: [1220, 1024, 991, 768, 480],
-                gridheight: [903, 800, 600, 700, 480],
-                lazyType: "none",
-                shadow: 0,
-                spinner: "off",
-                //stopLoop: "on",
-                //stopAfterLoops: 0,
-               // stopAtSlide: 1,
-				stopLoop: "off",
-				stopAfterLoops: -1,
-				stopAtSlide: -1,
-                shuffle: "off",
-                autoHeight: "off",
-                fullScreenAutoWidth: "off",
-                fullScreenAlignForce: "off",
-                fullScreenOffsetContainer: "",
-                fullScreenOffset: "80",
-                disableProgressBar: "on",
-                hideThumbsOnMobile: "off",
-                hideSliderAtLimit: 0,
-                hideCaptionAtLimit: 0,
-                hideAllCaptionAtLilmit: 0,
-                debugMode: false,
-                fallbacks: {
-                    simplifyAll: "off",
-                    nextSlideOnWindowFocus: "off",
-                    disableFocusListener: false,
-                },
-            })
-        }
-    }
-    full_page_slider();
+    // function full_page_slider() {
+    //     if ($('#full_page_slider').length) {
+    //         $("#full_page_slider").revolution({
+    //             sliderType: "standard",
+    //             sliderLayout: 'fullscreen',
+    //             dottedOverlay: "none",
+    //             delay: 5000,
+    //             autoHeight: 'off',
+    //             minHeight: 480,
+    //             navigation: {
+    //                 keyboardNavigation: "off",
+    //                 keyboard_direction: "horizontal",
+    //                 onHoverStop: "off",
+    //                 mouseScrollNavigation: "off",
+    //                 mouseScrollReverse: "default",
+    //                 touch: {
+    //                     touchenabled: "on",
+    //                     swipe_threshold: 75,
+    //                     swipe_min_touches: 1,
+    //                     swipe_direction: "horizontal",
+    //                     drag_block_vertical: false
+    //                 },
+    //                 bullets: {
+    //                     enable: false,
+    //                     hide_onmobile: true,
+    //                     direction: "vertical",
+    //                     h_align: "right",
+    //                     v_align: "center",
+    //                     h_offset: 80,
+    //                     v_offset: 0,
+    //                     space: 27
+    //                 },
+    //             },
+    //             responsiveLevels: [1920, 1199, 991, 768, 480],
+    //             visibilityLevels: [1920, 960, 991, 768, 480],
+    //             gridwidth: [1220, 1024, 991, 768, 480],
+    //             gridheight: [903, 800, 600, 700, 480],
+    //             lazyType: "none",
+    //             shadow: 0,
+    //             spinner: "off",
+    //             //stopLoop: "on",
+    //             //stopAfterLoops: 0,
+    //            // stopAtSlide: 1,
+	// 			stopLoop: "off",
+	// 			stopAfterLoops: -1,
+	// 			stopAtSlide: -1,
+    //             shuffle: "off",
+    //             autoHeight: "off",
+    //             fullScreenAutoWidth: "off",
+    //             fullScreenAlignForce: "off",
+    //             fullScreenOffsetContainer: "",
+    //             fullScreenOffset: "80",
+    //             disableProgressBar: "on",
+    //             hideThumbsOnMobile: "off",
+    //             hideSliderAtLimit: 0,
+    //             hideCaptionAtLimit: 0,
+    //             hideAllCaptionAtLilmit: 0,
+    //             debugMode: false,
+    //             fallbacks: {
+    //                 simplifyAll: "off",
+    //                 nextSlideOnWindowFocus: "off",
+    //                 disableFocusListener: false,
+    //             },
+    //         })
+    //     }
+    // }
+    // full_page_slider();
 
-    function fillter_slider() {
-        if ($('.fillter_slider').length) {
-            $('.fillter_slider').owlCarousel({
-                loop: true,
-                margin: 6,
-                items: 4,
-                nav: true,
-                autoplay: true,
-                smartSpeed: 1500,
-                dots: true,
-                navContainer: '.fillter_slider',
-                navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
-                responsiveClass: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                    },
-                    575: {
-                        items: 2,
-                    },
-                    800: {
-                        items: 3,
-                    },
-                    1200: {
-                        items: 4,
-                    }
-                }
-            })
-        }
-    }
-    fillter_slider();
+    // function fillter_slider() {
+    //     if ($('.fillter_slider').length) {
+    //         $('.fillter_slider').owlCarousel({
+    //             loop: true,
+    //             margin: 6,
+    //             items: 4,
+    //             nav: true,
+    //             autoplay: true,
+    //             smartSpeed: 1500,
+    //             dots: true,
+    //             navContainer: '.fillter_slider',
+    //             navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
+    //             responsiveClass: true,
+    //             responsive: {
+    //                 0: {
+    //                     items: 1,
+    //                 },
+    //                 575: {
+    //                     items: 2,
+    //                 },
+    //                 800: {
+    //                     items: 3,
+    //                 },
+    //                 1200: {
+    //                     items: 4,
+    //                 }
+    //             }
+    //         })
+    //     }
+    // }
+    // fillter_slider();
 
-    function team_slider() {
-        if ($('.team_slider').length) {
-            $('.team_slider').owlCarousel({
-                loop: true,
-                margin: 30,
-                items: 4,
-                nav: true,
-                autoplay: true,
-                smartSpeed: 1500,
-                dots: true,
-                navContainerClass: 'team_slider',
-                navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
-                responsiveClass: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                    },
-                    400: {
-                        items: 2,
-                    },
-                    768: {
-                        items: 3,
-                    },
-                    992: {
-                        items: 4,
-                    }
-                }
-            })
-        }
-    }
-    team_slider();
+    // function team_slider() {
+    //     if ($('.team_slider').length) {
+    //         $('.team_slider').owlCarousel({
+    //             loop: true,
+    //             margin: 30,
+    //             items: 4,
+    //             nav: true,
+    //             autoplay: true,
+    //             smartSpeed: 1500,
+    //             dots: true,
+    //             navContainerClass: 'team_slider',
+    //             navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
+    //             responsiveClass: true,
+    //             responsive: {
+    //                 0: {
+    //                     items: 1,
+    //                 },
+    //                 400: {
+    //                     items: 2,
+    //                 },
+    //                 768: {
+    //                     items: 3,
+    //                 },
+    //                 992: {
+    //                     items: 4,
+    //                 }
+    //             }
+    //         })
+    //     }
+    // }
+    // team_slider();
 
-    function villa_slider() {
-        if ($('.villa_slider').length) {
-            $('.villa_slider').owlCarousel({
-                loop: true,
-                margin: 0,
-                items: 1,
-                nav: true,
-                autoplay: true,
-                smartSpeed: 1500,
-                dots: true,
-                navContainer: '.villa_slider',
-                navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
-                responsiveClass: true,
-            })
-        }
-    }
-    villa_slider();
+    // function villa_slider() {
+    //     if ($('.villa_slider').length) {
+    //         $('.villa_slider').owlCarousel({
+    //             loop: true,
+    //             margin: 0,
+    //             items: 1,
+    //             nav: true,
+    //             autoplay: true,
+    //             smartSpeed: 1500,
+    //             dots: true,
+    //             navContainer: '.villa_slider',
+    //             navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
+    //             responsiveClass: true,
+    //         })
+    //     }
+    // }
+    // villa_slider();
 
-    function single_slider() {
-        if ($('.blog_g_slider').length) {
-            $('.blog_g_slider').owlCarousel({
-                loop: true,
-                margin: 0,
-                items: 1,
-                nav: true,
-                autoplay: true,
-                smartSpeed: 1500,
-                dots: true,
-                navContainer: '.blog_g_slider',
-                navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
-                responsiveClass: true,
-            })
-        }
-    }
-    single_slider();
+    // function single_slider() {
+    //     if ($('.blog_g_slider').length) {
+    //         $('.blog_g_slider').owlCarousel({
+    //             loop: true,
+    //             margin: 0,
+    //             items: 1,
+    //             nav: true,
+    //             autoplay: true,
+    //             smartSpeed: 1500,
+    //             dots: true,
+    //             navContainer: '.blog_g_slider',
+    //             navText: ['<i class="ion-ios-arrow-left"></i>', '<i class="ion-ios-arrow-right"></i>'],
+    //             responsiveClass: true,
+    //         })
+    //     }
+    // }
+    // single_slider();
 
-    function clients_slider() {
-        if ($('.clients_slider').length) {
-            $('.clients_slider').owlCarousel({
-                loop: true,
-                margin: 30,
-                items: 5,
-                nav: false,
-                autoplay: false,
-                smartSpeed: 1500,
-                dots: true,
-                responsiveClass: true,
-                responsive: {
-                    0: {
-                        items: 1,
-                    },
-                    400: {
-                        items: 2,
-                    },
-                    575: {
-                        items: 3,
-                    },
-                    768: {
-                        items: 4,
-                    },
-                    1199: {
-                        items: 5,
-                    }
-                }
-            })
-        }
-    }
-    clients_slider();
+    // function clients_slider() {
+    //     if ($('.clients_slider').length) {
+    //         $('.clients_slider').owlCarousel({
+    //             loop: true,
+    //             margin: 30,
+    //             items: 5,
+    //             nav: false,
+    //             autoplay: false,
+    //             smartSpeed: 1500,
+    //             dots: true,
+    //             responsiveClass: true,
+    //             responsive: {
+    //                 0: {
+    //                     items: 1,
+    //                 },
+    //                 400: {
+    //                     items: 2,
+    //                 },
+    //                 575: {
+    //                     items: 3,
+    //                 },
+    //                 768: {
+    //                     items: 4,
+    //                 },
+    //                 1199: {
+    //                     items: 5,
+    //                 }
+    //             }
+    //         })
+    //     }
+    // }
+    // clients_slider();
+   
+   
     $('.portfolio_filter li').on('click', function() {
         $('.portfolio_filter .active').removeClass('active');
         $(this).closest('li').addClass('active');

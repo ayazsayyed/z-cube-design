@@ -21,28 +21,28 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/deutsche-bank/img-3.jpg", 
+		"thumbnail": "assets/images/project-categories/commercial/deutsche-bank/img-3.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-9.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-10.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-11.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-12.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-13.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/deutsche-bank/img-13.webp" }
 		]
 	},
 
 	{
 		"id": "2",
 		"title": "DR. AEH Kolkata",
-		"sub_title": " ", 
+		"sub_title": " ",
 		"seo_url": "deh-kolkata",
 		"company": "india",
 		"areas": "12000",
@@ -61,20 +61,20 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg", 
+		"thumbnail": "assets/images/project-categories/health-care/deh-kolkata/img-12.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-12.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-kolkata/img-12.webp" }
 		]
 	},
 
@@ -100,16 +100,16 @@
 		"works": [
 			{ "worktyp": "Project" }
 		],
-		"thumbnail": "assets/images/project-categories/residence/andheri/img-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/residence/andheri/img-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-8.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/andheri/img-8.webp" }
 
 		]
 	},
@@ -136,13 +136,13 @@
 		"works": [
 			{ "worktyp": "project management" }
 		],
-		"thumbnail": "assets/images/project-categories/resturant/sequel/img-1.JPG", 
+		"thumbnail": "assets/images/project-categories/resturant/sequel/img-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-1.JPG" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-5.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/sequel/img-5.webp" }
 		]
 	},
 
@@ -168,28 +168,28 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-gorakhpur/img-7.jpeg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-gorakhpur/img-7.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-12.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-13.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-14.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-15.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-16.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-17.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-18.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-19.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-20.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-13.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-14.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-15.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-16.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-17.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-18.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-19.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-gorakhpur/img-20.webp" }
 		]
 	},
 
@@ -216,12 +216,12 @@
 			{ "worktyp": "Design" },
 			{ "worktyp": "Revamp" }
 		],
-		"thumbnail": "assets/images/project-categories/health-care/deh-vashi/img-3.jpeg", 
+		"thumbnail": "assets/images/project-categories/health-care/deh-vashi/img-3.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-4.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-vashi/img-4.webp" }
 
 		]
 	},
@@ -248,14 +248,14 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-nashik/img-2.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-nashik/img-2.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-6.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-nashik/img-6.webp" }
 		]
 	},
 
@@ -281,19 +281,19 @@
 		"works": [
 			{ "worktyp": "Revamp" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/wework/img-11.jpeg", 
+		"thumbnail": "assets/images/project-categories/commercial/wework/img-11.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-11.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/wework/img-11.webp" }
 		]
 	},
 
@@ -319,24 +319,24 @@
 		"works": [
 			{ "worktyp": "project management" }
 		],
-		"thumbnail": "assets/images/project-categories/resturant/Indus-club/image-8.jpeg", 
+		"thumbnail": "assets/images/project-categories/resturant/Indus-club/image-8.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-12.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-13.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-14.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-15.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-16.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-13.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-14.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-15.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/Indus-club/image-16.webp" }
 		]
 	},
 
@@ -362,16 +362,16 @@
 		"works": [
 			{ "worktyp": "Project" }
 		],
-		"thumbnail": "assets/images/project-categories/residence/nepansea-road/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/residence/nepansea-road/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-8.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/nepansea-road/image-8.webp" }
 		]
 	},
 
@@ -397,11 +397,11 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/247-park/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/commercial/247-park/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-3.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/247-park/image-3.webp" }
 		]
 	},
 
@@ -428,11 +428,11 @@
 			{ "worktyp": "Design" },
 			{ "worktyp": "Built" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/eversana/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/commercial/eversana/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-3.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/eversana/image-3.webp" }
 		]
 	},
 
@@ -459,14 +459,14 @@
 			{ "worktyp": "Design" },
 			{ "worktyp": "Built" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/hh-global/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/commercial/hh-global/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-6.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/hh-global/image-6.webp" }
 		]
 	},
 
@@ -493,18 +493,18 @@
 			{ "worktyp": "Design" },
 			{ "worktyp": "Revamp" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/money-gram/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/commercial/money-gram/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-9.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-10.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/money-gram/image-10.webp" }
 		]
 	},
 
@@ -531,11 +531,11 @@
 			{ "worktyp": "Design" },
 			{ "worktyp": "Revamp" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/nielson/image-1.png", 
+		"thumbnail": "assets/images/project-categories/commercial/nielson/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-1.png" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-3.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/nielson/image-3.webp" }
 		]
 	},
 
@@ -561,14 +561,14 @@
 		"works": [
 			{ "worktyp": "Design & Built" }
 		],
-		"thumbnail": "assets/images/project-categories/commercial/square-yards/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/commercial/square-yards/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-6.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/commercial/square-yards/image-6.webp" }
 
 		]
 	},
@@ -595,13 +595,13 @@
 		"works": [
 			{ "worktyp": "Project" }
 		],
-		"thumbnail": "assets/images/project-categories/residence/lowerparel-1/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/residence/lowerparel-1/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-5.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-1/image-5.webp" }
 
 		]
 	},
@@ -628,15 +628,15 @@
 		"works": [
 			{ "worktyp": "Project" }
 		],
-		"thumbnail": "assets/images/project-categories/residence/lowerparel-2/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/residence/lowerparel-2/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-7.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/residence/lowerparel-2/image-7.webp" }
 		]
 	},
 
@@ -662,16 +662,16 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-delhi/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-delhi/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-8.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-delhi/image-8.webp" }
 		]
 	},
 
@@ -697,20 +697,20 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-hyderabad/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-hyderabad/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-12.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-hyderabad/image-12.webp" }
 		]
 	},
 
@@ -736,11 +736,11 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-raipur/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-raipur/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-3.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-raipur/image-3.webp" }
 		]
 	},
 
@@ -766,26 +766,26 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-tumkur/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-tumkur/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-9.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-10.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-11.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-12.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-13.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-14.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-15.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-16.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-17.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-18.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-19.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-13.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-14.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-15.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-16.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-17.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-18.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tumkur/image-19.webp" }
 		]
 	},
 
@@ -811,15 +811,15 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-9.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-mohali-ap-homes/image-9.webp" }
 		]
 	},
 
@@ -845,11 +845,11 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/health-care/deh-tumkur/img-1.jpg", 
+		"thumbnail": "assets/images/project-categories/health-care/deh-tumkur/img-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-3.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/health-care/deh-tumkur/img-3.webp" }
 		]
 	},
 
@@ -875,14 +875,14 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/resturant/beer-cafe/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/resturant/beer-cafe/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-6.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/resturant/beer-cafe/image-6.webp" }
 		]
 	},
 
@@ -908,21 +908,21 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/apca-surat/image-10.jpeg", 
+		"thumbnail": "assets/images/project-categories/retail/apca-surat/image-10.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-7.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-12.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-13.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-surat/image-13.webp" }
 		]
 	},
 
@@ -948,18 +948,18 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/apca-ahemdabad/image-1.jpeg", 
+		"thumbnail": "assets/images/project-categories/retail/apca-ahemdabad/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-1.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-10.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-ahemdabad/image-10.webp" }
 		]
 	},
 
@@ -985,14 +985,14 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/apca-coimbatore/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/apca-coimbatore/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-6.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/apca-coimbatore/image-6.webp" }
 		]
 	},
 
@@ -1018,15 +1018,15 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-vijayawada/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-vijayawada/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-8.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-vijayawada/image-8.webp" }
 		]
 	},
 
@@ -1052,13 +1052,13 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-trivandrum/image-5.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-trivandrum/image-5.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-5.jpg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-trivandrum/image-5.webp" }
 		]
 	},
 
@@ -1084,19 +1084,19 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-chennai/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-chennai/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-2.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-3.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-4.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-5.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-6.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-8.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-10.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-11.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-chennai/image-11.webp" }
 		]
 	},
 
@@ -1122,31 +1122,31 @@
 		"works": [
 			{ "worktyp": "Fitout" }
 		],
-		"thumbnail": "assets/images/project-categories/retail/aph-tirupur/image-1.jpg", 
+		"thumbnail": "assets/images/project-categories/retail/aph-tirupur/image-1.webp", 
 		"gallery": [
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-1.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-2.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-3.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-4.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-5.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-6.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-7.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-8.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-9.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-10.jpg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-11.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-12.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-13.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-14.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-15.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-16.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-17.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-18.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-19.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-20.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-21.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-22.jpeg" },
-			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-23.jpeg" }
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-1.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-2.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-3.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-4.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-5.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-6.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-7.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-8.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-9.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-10.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-11.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-12.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-13.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-14.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-15.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-16.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-17.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-18.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-19.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-20.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-21.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-22.webp" },
+			{ "gallery_pic": "assets/images/project-categories/retail/aph-tirupur/image-23.webp" }
 		]
 	}
 	

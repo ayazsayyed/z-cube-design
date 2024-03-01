@@ -35,7 +35,8 @@
 			</div>
 		</div>
 		<div class="col-lg-12 form-group submit">
-			<input type="submit" name="submit" class="btn block more_about_us dark" value="Submit">
-		</div>					
+			<input type="button" name="submit" class="btn block more_about_us dark" value="Submit" data-toggle="modal" data-target="#thankyou-sub">
+		</div>	
+		
 		<div class="clear"> </div>
 	</form>
