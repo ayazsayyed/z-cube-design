@@ -24,7 +24,7 @@ $page_head = ucwords($page_head);
 	<?php include('header.php');?>
     
     <div class="inner_banner" style="background:url(build/img/innerbanner/about.jpg) no-repeat">
-		<img src="buildimg/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
+		<img src="build/img/innerbanner/about.jpg" class="img-fluid" alt="about us banner image" />
 	</div>
 
 	<div class="blog-post-page">
