@@ -131,7 +131,7 @@ $page_head = ucwords($page_head);
 							</li>
 							<li>
 								<div class="thumb">	
-									<div class="counter-value" data-count="300">0</div>
+									<div class="counter-value" data-count="76">0</div>
 									<h4> Satisfied Clients </h4>
 								</div>
 							</li>

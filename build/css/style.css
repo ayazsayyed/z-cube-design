@@ -1,6 +1,6 @@
-/* @import url('theme.css'); */
-/*@import url('../vendors/pagepiling/jquery.pagepiling.css');
-@import url('../vendors/animsition/css/animsition.min.css'); */
+/* @import url('./theme.css'); */
+@import url("../../vendors/pagepiling/jquery.pagepiling.css");
+@import url("../../vendors/animsition/css/animsition.min.css");
 /* @import url('../vendors/elegant-icon/style.css');
 @import url('../vendors/ionicons/css/ionicons.min.css'); */
 /*------- font -----*/
@@ -3481,3 +3481,4 @@ Copyright (c) 2013 Daniel Eden
 .zoomOutUp {
   animation-name: zoomOutUp;
 }
+/*# sourceMappingURL=style.css.map */
