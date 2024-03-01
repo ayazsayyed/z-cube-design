@@ -62,14 +62,16 @@ figure {
 }
 
 /*--------- home page banner css ----------*/
-.pc_text, .sm_text {
+.pc_text,
+.sm_text {
   text-shadow: #141414 1px 0 10px;
   transition: all 0.5s !important;
   padding: 10px !important;
   border-radius: 6px;
 }
 
-.pc_text a.btn, .sm_text a.btn {
+.pc_text a.btn,
+.sm_text a.btn {
   text-shadow: none;
 }
 
@@ -124,6 +126,46 @@ figure {
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s;
+}
+
+.featured-projects .slick-track {
+  display: flex !important;
+}
+
+.featured-projects .slick-slide {
+  height: inherit !important;
+}
+
+.projects_item {
+  height: 100%;
+}
+
+.projects_item img {
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.slick-slide {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.your-dream a.btn {
+  position: relative;
+}
+
+.your-dream a.btn span {
+  font-weight: 400;
+  transition: all 0.5s;
+  position: absolute;
+  right: 18px;
+}
+
+.your-dream a.btn:hover span {
+  right: 14px;
 }
 
 /*----------- about us css -------------*/
@@ -307,7 +349,8 @@ figure {
   display: none;
 }
 
-.testi-title h4, .testi-title p {
+.testi-title h4,
+.testi-title p {
   margin-bottom: 0;
 }
 
@@ -451,8 +494,21 @@ footer a:hover {
   text-align: center;
 }
 
-.our-client .owl-item .item .mobile-v {
+.our-client .owl-item .item .mob-v {
   display: none;
+}
+
+.our-client .owl-item .item .desk-v {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.our-clients-p .itam-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .our-client .owl-item figure {
@@ -734,6 +790,16 @@ footer a:hover {
   position: relative;
 }
 
+.dream-today .inner-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  z-index: 1;
+  min-height: 245px;
+  padding: 40px 110px 40px 40px;
+}
+
 .dream-today .background-img {
   position: absolute;
   left: 0;
@@ -755,16 +821,6 @@ footer a:hover {
 
 .dream-today .cust-img img {
   width: 100%;
-}
-
-.dream-today .inner-wrap {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  position: relative;
-  z-index: 1;
-  min-height: 266px;
-  padding: 40px 110px 40px 40px;
 }
 
 .dream-today .content {
@@ -1787,7 +1843,8 @@ footer a:hover {
   border-bottom: 0;
 }
 
-.current-opening .list-job-detail h5, .current-opening .list-job-detail a {
+.current-opening .list-job-detail h5,
+.current-opening .list-job-detail a {
   font-family: Heebo;
   font-size: 15px;
   margin: 0;
@@ -1996,7 +2053,8 @@ footer a:hover {
   line-height: 1;
 }
 
-.modal-content .modal-header button:focus-visible, .modal-content .modal-header button:focus {
+.modal-content .modal-header button:focus-visible,
+.modal-content .modal-header button:focus {
   border: 0;
   outline: 0;
 }
@@ -2206,6 +2264,9 @@ footer a:hover {
     margin-top: 0;
     padding-bottom: 0;
   }
+  #how_we_work .col-lg-3 h3 {
+    font-size: 31px;
+  }
   /*----------- projectsectoin css ----------*/
   .projects .entry-title {
     max-width: 100%;
@@ -2348,13 +2409,16 @@ footer a:hover {
     display: flex;
     justify-content: space-between;
   }
-  .navbar_fixed.full_header .float-right .bar_menu i, .full_header .float-right .bar_menu i {
+  .navbar_fixed.full_header .float-right .bar_menu i,
+  .full_header .float-right .bar_menu i {
     font-size: 35px;
   }
   .full_header.navbar_fixed .float-right .bar_menu i {
     color: #f16638;
   }
-  .navbar_fixed.full_header .float-right .bar_menu i:hover, .navbar_fixed.full_header .float-right .bar_menu i:active, .navbar_fixed.full_header .float-right .bar_menu i:focus {
+  .navbar_fixed.full_header .float-right .bar_menu i:hover,
+  .navbar_fixed.full_header .float-right .bar_menu i:active,
+  .navbar_fixed.full_header .float-right .bar_menu i:focus {
     background-color: transparent;
     border: 0;
     outline: none;
@@ -2383,7 +2447,8 @@ footer a:hover {
     border-radius: 8px;
   }
   /*----------- home page ----------------*/
-  #how_we_work, #about {
+  #how_we_work,
+  #about {
     padding-top: 50px !important;
   }
   #about.cut-sec-1 {
@@ -2391,6 +2456,21 @@ footer a:hover {
   }
   #how_we_work .col-lg-3:nth-last-child(1) {
     margin-bottom: 0;
+  }
+  .projects_item .hover .project_text {
+    left: 0;
+    bottom: 15px;
+    width: 100%;
+    padding: 0 15px;
+  }
+  .projects_item:hover .hover .project_text h5 {
+    line-height: 1;
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  .projects_item .hover .project_text h4 {
+    line-height: 1;
+    font-size: 22px;
   }
   /*----------- about sectoin css ----------*/
   #aboutpage.cut-aboutus-page {
@@ -2515,7 +2595,8 @@ footer a:hover {
   .type-of-furniture .product-card {
     margin: 0 10px;
   }
-  .tabs.is__responsive .tabs__content .tabs__nav_link, .tabs.is__responsive .tabs__nav_link {
+  .tabs.is__responsive .tabs__content .tabs__nav_link,
+  .tabs.is__responsive .tabs__nav_link {
     padding: 10px 18px;
     margin: 0;
     border-radius: 30px;
@@ -2694,6 +2775,28 @@ footer a:hover {
   }
 }
 @media (max-width: 840px) {
+  .our-blog.home .cust-blog-img {
+    height: auto;
+  }
+  /* home page  */
+  .our-client {
+    padding-top: 0;
+  }
+  .our-client .owl-item .item .mob-v {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .our-client .owl-item .item .desk-v {
+    display: none;
+  }
+  .our-blog.home .blog-col-wrap {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+  .our-blog.home .blog-col-wrap {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
   /*----------- team page css ----------*/
   .card-details {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -2717,14 +2820,16 @@ footer a:hover {
   .sm_text {
     width: 490px;
   }
-  .sm_text h1, .sm_text p {
+  .sm_text h1,
+  .sm_text p {
     padding-right: 5%;
   }
   .tp-resizeme h1 {
     font-size: 48px !important;
   }
   /*----------- home page ----------------*/
-  #how_we_work .thumb:before, #how_we_work .thumb:after {
+  #how_we_work .thumb:before,
+  #how_we_work .thumb:after {
     opacity: 1;
     visibility: visible;
   }
@@ -2952,7 +3057,8 @@ footer a:hover {
   .type-of-furniture .product-card .product-content a {
     font-size: 17px;
   }
-  .tabs.is__responsive .tabs__content .tabs__nav_link, .tabs.is__responsive .tabs__nav_link {
+  .tabs.is__responsive .tabs__content .tabs__nav_link,
+  .tabs.is__responsive .tabs__nav_link {
     border-radius: 10px;
   }
   .our-steps .slider-wrap .col-left {
@@ -3036,7 +3142,8 @@ footer a:hover {
   .sm_text {
     width: 375px;
   }
-  .sm_text h1, .sm_text p {
+  .sm_text h1,
+  .sm_text p {
     padding-right: 5%;
   }
   .tp-resizeme h1 {
@@ -3080,7 +3187,8 @@ footer a:hover {
     padding: 30px 10px !important;
     font-size: 0 !important;
   }
-  .sm_text h1, .sm_text p {
+  .sm_text h1,
+  .sm_text p {
     padding-right: 0;
   }
   .sm_text p {
@@ -3129,7 +3237,10 @@ footer a:hover {
   .factory-banner .content {
     width: 90%;
   }
-  .how-it-work, .type-of-furniture-work, .machinery, .machinery-list {
+  .how-it-work,
+  .type-of-furniture-work,
+  .machinery,
+  .machinery-list {
     padding: 30px 0;
   }
   .type-of-furniture-work .title p {
@@ -3174,7 +3285,8 @@ footer a:hover {
   .apply-for-job .wrap .content ul {
     padding-left: 20px;
   }
-  .apply-for-job .wrap .page-title, .apply-for-job .wrap .exp-social {
+  .apply-for-job .wrap .page-title,
+  .apply-for-job .wrap .exp-social {
     flex-direction: column;
     align-items: flex-start;
   }
@@ -3317,4 +3429,3 @@ footer a:hover {
     transition: all 0s;
   }
 }
-/*# sourceMappingURL=stylenew.css.map */

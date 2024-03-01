@@ -12,7 +12,7 @@ var gulp  = require('gulp'),
     function buildCss() {
       return gulp.src(['assets/css/*.css'])
         .pipe(wait(200))
-        .pipe(sourcemaps.init())
+        // .pipe(sourcemaps.init())
         .pipe(sass().on('error', sass.logError))
         .pipe(postcss([ autoprefixer() ]))
         .pipe(sourcemaps.write('.'))
