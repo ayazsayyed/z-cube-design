@@ -191,15 +191,15 @@ function generateEmailBody($name, $contact, $email, $message) {
 							<table align="center" width="530" class="width95" cellspacing="0" cellpadding="0" style="background-color: #d3d3d340;border-radius: 0 0 8px 8px;">
 								<tr>
 									<td valign="top" align="center" class="width100">
-										<table align="center" width="470" class="width95" cellspacing="0" cellpadding="0" style="border:1px solid lightgray; border-radius: 8px;">
+										<table align="center" width="470" class="width90" cellspacing="0" cellpadding="0" style="border:1px solid lightgray; border-radius: 8px;">
 											<tr>
 												<td valign="top" align="center" height="20"></td>
 											</tr>
 
 											<tr>
 												<td valign="top" align="center" height="10" width="20" style="width: 20px;">&nbsp;</td>
-												<td valign="top" align="left" height="10" width="430" style="width: 430px;">
-													<table align="left" width="100%" class="width95" cellspacing="0" cellpadding="0">
+												<td valign="top" align="left" height="10" width="430" style="width: 430px;" class="width90">
+													<table align="left" width="100%" class="width100" cellspacing="0" cellpadding="0">
 														<tr>
 															<td valign="top" align="left" width="110" id="cust_name" style="width:110px; line-height: 1.2;font-weight: 700; font-size: 14px;">
 																Name :

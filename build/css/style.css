@@ -1787,6 +1787,14 @@ strong {
   transform: scale(1.1);
 }
 
+.contact_content .submit .btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  font-weight: 600;
+}
+
 /* ===== testimonials ===== */
 /* #testimonials  { padding-top:20px !Important; } */
 .clients_area .main_title {
@@ -1837,15 +1845,6 @@ strong {
 
 .contact_content .form-group.cust-error input {
   border-bottom: 1px solid #ff0000;
-  color: #ff0000;
-}
-
-.contact_content .form-group.cust-error input::-moz-placeholder {
-  color: #ff0000;
-}
-
-.contact_content .form-group.cust-error input::placeholder {
-  color: #ff0000;
 }
 
 .contact_content .form-group.cust-error .error-message {

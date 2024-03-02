@@ -63,7 +63,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 	echo($hasError);
 	if(!isset($hasError)) {
 		
-		$emailTo = 'ayaz.sayyed94@gmail.com' ; // note the comma
+		$emailTo = 'shaikhakil377@gmail.com' ; // note the comma
 		$body = '<html><body>';
 		$body .= '<table rules="all" style="font-family: "Open Sans"; cellpadding="10">';
 		$body .= "<tr><td><strong>Name</strong> </td><td><strong>:</strong> </td><td>" . $name . "</td></tr>";
@@ -76,7 +76,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 		//echo $body;exit;
 		$headers = "MIME-Version: 1.0" . "\r\n";
 		$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-		$headers .= 'From: website <ayaz.sayyed94@gmail.comn>' . "\r\n";
+		$headers .= 'From: website <ayaz.sayyed94@gmail.com>' . "\r\n";
 		$headers .= 'bcc: ayaz.sayyed94@gmail.com' . "\r\n";
 		$subject = "Webiste Enquiry";
 		if(mail($emailTo, $subject, $body, $headers)) {
