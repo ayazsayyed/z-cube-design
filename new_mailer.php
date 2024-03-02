@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $mail->setFrom('ayaz.sayyed94@gmail.com', 'Zcube Design');
         $mail->addAddress('ayaz.sayyed94@gmail.com');
         $mail->addAddress('ayaz.sayyed94@gmail.com', 'Ayaz Sayyed' );
-    
+        $mail->addAddress('shaikhakil377@gmail.com', 'Akil Shaikh' );
         //Content
         $mail->isHTML(true);                                  //Set email format to HTML
         $mail->Subject = 'Congratulations! New Enquiry From Zcubedesign.com';
